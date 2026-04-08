@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="plugins">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/otto-9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/admin-9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/maimai-9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/meme-9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/text-9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/chunithm-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/guess-9.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,26 @@
+.DS_Store
+
+# Runtime-local secrets / generated files
+/config/
+/plugins/
+/libs/
+/backup/
+/database/
+/font/
+/process/
+/log/
+/chunithm/
+
+keystore.jks
+todo.txt
+
+# Large or private runtime assets
+/data/audio/touhou/th*
+
+/data/maimai/avatars
+/data/maimai/covers
+/data/maimai/plates
+/data/maimai/theme/**/covers
+/data/maimai/diving-fish-stats.json
+
+/data/meme/emoji
