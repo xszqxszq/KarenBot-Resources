@@ -9,10 +9,7 @@
 /font/
 /process/
 /log/
-/chunithm/
-
-keystore.jks
-todo.txt
+/.idea/
 
 # Large or private runtime assets
 /data/audio/touhou/th*
