@@ -17,7 +17,12 @@
 /data/maimai/avatars
 /data/maimai/covers
 /data/maimai/plates
-/data/maimai/theme/**/covers
+/data/maimai/preview
 /data/maimai/diving-fish-stats.json
+
+/data/chunithm/avatars
+/data/chunithm/covers
+/data/chunithm/plates
+/data/chunithm/preview
 
 /data/meme/emoji
