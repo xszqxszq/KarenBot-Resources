@@ -1,6 +1,13 @@
 aliases:
+  Clematis:
+    - 莲莲
+    - 铁线莲
+  écologie:
+    - eco
+    - 恩恩
+  Emerald:
+    - 绿宝石
   Jack:
-    - jack
     - 杰克
   LabiLabi:
     - 拉比
@@ -30,6 +37,12 @@ aliases:
     - amaryllis
   アミノハバキリ:
     - habakiri
+    - hbkr
+    - 汉堡烤肉
+  イノシカ提灯:
+    - 提灯
+  うさぎランドリー:
+    - 兔子洗衣店
   某S氏:
     - 某s氏
     - 某s
@@ -39,6 +52,8 @@ aliases:
     - 谱面100号
     - 谱面-100号
     - 100号
+    - Op.C
+    - 谱百
   譜面ボーイズからの挑戦状:
     - 挑战状
   合作だよ:
@@ -60,17 +75,27 @@ aliases:
   カマボコ君:
     - 鱼板君
     - 鱼板
+  如月 ゆかり:
+    - 如月
+    - Yukari
   ミニミライト:
     - '323'
     - 三二三
     - ミニミ
+    - minimilight
+  みそかつ侍:
+    - 味增武士
   ミストルティン:
     - 槲寄生
     - 米斯特汀
     - mistilteinn
+  みぞれヤナギ:
+    - 柳
+    - mizore
   ものくろっく:
     - 黑色时钟
     - 黑白时钟
+    - 黑白钟
     - 单色钟
     - 黑钟
     - monoclock
@@ -93,6 +118,8 @@ aliases:
     - 7.3g
     - '7.3'
     - '73'
+  そらいろカリン:
+    - 空色
   翠楼屋:
     - 翠翠
     - 翠
@@ -101,12 +128,20 @@ aliases:
     - すき焼き
     - sukiyaki
     - 奉行
+    - 寿喜锅
+    - 寿喜烧
   隅田川星人:
     - 隅田川
     - 川哥
   小鳥遊さん:
     - 小鸟游
     - 小鳥遊
+  透明絵具:
+    - 透明绘具
+  夕凪アロエ:
+    - 夕凪
+    - 芦荟
+    - nagi
 includes:
   écologie:
     - えころじ
@@ -227,6 +262,8 @@ includes:
     - 譜面-100ンゴ
     - 'DJ #-100'
     - Hyphen Hecto Philharmonic Orchestra
+  譜面ボーイズからの挑戦状:
+    - 譜面ボーイズ
   合作だよ:
     - maimai TEAM
     - maimai TEAM DX
@@ -294,6 +331,7 @@ includes:
     - Violetta VS MONSTER
     - J.K.L.
     - Monster -FINAL JUDGEMENT-
+    - WHITE WINTER NOTES
   カマボコ君:
     - ボコ太
     - いぬっくまとボコっくま
@@ -321,6 +359,7 @@ includes:
     - Mistilteinn
     - 緑化委員長・改 supported by †M†
     - ミストのアトリエ
+    - WHITE WINTER NOTES
   みぞれヤナギ:
     - みぞれ
     - ヤナギ
@@ -385,6 +424,7 @@ includes:
     - rocher
     - R.@.P.
     - Emperor
+    - せりなとなずながあーりんに助けを求める話
   緑化委員長:
     - りょっかとレモン
     - 緑化
@@ -461,6 +501,8 @@ includes:
     - あろえ
     - Aloe
     - '[!!Data41o3!!]'
+  背景担当K:
+    - FLANDRE LEMON
 collabs:
   Jack:
     - 200#4
