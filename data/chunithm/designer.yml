@@ -1,73 +1,463 @@
 aliases:
-  "某S氏": ["某s氏", "某s"]
-  "小鳥遊さん": ["小鸟游", "小鳥遊"]
-  "譜面-100号": ["谱面100号", "谱面-100号", "100号"]
-  "翠楼屋": ["翠翠", "翠"]
-  "華火職人": ["华火职人", "华火"]
-  "隅田川星人": ["隅田川", "川哥"]
-  "鳩ホルダー": ["鸠"]
-  "チャン@DP皆伝": ["dp皆传"]
-  "サファ太": ["沙发太"]
-  "すきやき奉行": ["すきやき", "すき焼き", "sukiyaki", "奉行"]
-  "はっぴー": ["happy", "哈皮", "狗", "犬", "緑風犬三郎", "犬三郎"]
-  "ぴちネコ": ["桃子猫", "黑俄罗斯", "俄罗斯黑"]
-  "ものくろっく": ["黑色时钟", "黑白时钟", "单色钟", "黑钟"]
-  "じゃこレモン": ["柠檬"]
-  "ロシェ@ペンギン": ["企鹅"]
-  "あまくちジンジャー": ["甜口姜", "甘口姜"]
-  "ニャイン": ["二大爷"]
-  "アマリリス": ["莉莉丝", "amaryllis"]
-  "シチミヘルツ": ["7.3ghz", "7.3hz", "7.3g赫兹", "7.3赫兹", "7.3g", "7.3", "73"]
-  "アミノハバキリ": ["habakiri"]
-  "カマボコ君": ["鱼板君", "鱼板"]
-  "Jack": ["jack", "杰克"]
-  "mai-Star": ["maistar", "star", "-star"]
-  "LabiLabi": ["拉比"]
-  "Revo@LC": ["revo"]
-  "Redarrow": ["红箭头", "红箭", "红矢"]
-  "Luxizhel": ["泸溪河", "卢"]
-  "Techno Kitchen": ["科技厨房"]
-  "譜面ボーイズからの挑戦状": ["挑战状"]
-  "ミニミライト": ["323", "三二三", "ミニミ"]
-  "合作だよ": ["合作"]
+  Jack:
+    - jack
+    - 杰克
+  LabiLabi:
+    - 拉比
+  Luxizhel:
+    - 泸溪河
+    - 卢
+  mai-Star:
+    - maistar
+    - star
+    - -star
+  Moon Strix:
+    - moonstrix
+    - 月梟
+  Redarrow:
+    - 红箭头
+    - 红箭
+    - 红矢
+  Revo@LC:
+    - revo
+  Techno Kitchen:
+    - 科技厨房
+  あまくちジンジャー:
+    - 甜口姜
+    - 甘口姜
+  アマリリス:
+    - 莉莉丝
+    - amaryllis
+  アミノハバキリ:
+    - habakiri
+  某S氏:
+    - 某s氏
+    - 某s
+  チャン@DP皆伝:
+    - dp皆传
+  譜面-100号:
+    - 谱面100号
+    - 谱面-100号
+    - 100号
+  譜面ボーイズからの挑戦状:
+    - 挑战状
+  合作だよ:
+    - 合作
+  華火職人:
+    - 华火职人
+    - 华火
+  はっぴー:
+    - happy
+    - 哈皮
+    - 狗
+    - 犬
+    - 緑風犬三郎
+    - 犬三郎
+  鳩ホルダー:
+    - 鸠
+  じゃこレモン:
+    - 柠檬
+  カマボコ君:
+    - 鱼板君
+    - 鱼板
+  ミニミライト:
+    - '323'
+    - 三二三
+    - ミニミ
+  ミストルティン:
+    - 槲寄生
+    - 米斯特汀
+    - mistilteinn
+  ものくろっく:
+    - 黑色时钟
+    - 黑白时钟
+    - 单色钟
+    - 黑钟
+  ニャイン:
+    - 二大爷
+  ぴちネコ:
+    - 桃子猫
+    - 黑俄罗斯
+    - 俄罗斯黑
+  ロシェ@ペンギン:
+    - 企鹅
+    - rocher
+  サファ太:
+    - 沙发太
+  シチミヘルツ:
+    - 7.3ghz
+    - 7.3hz
+    - 7.3g赫兹
+    - 7.3赫兹
+    - 7.3g
+    - '7.3'
+    - '73'
+  翠楼屋:
+    - 翠翠
+    - 翠
+  すきやき奉行:
+    - すきやき
+    - すき焼き
+    - sukiyaki
+    - 奉行
+  隅田川星人:
+    - 隅田川
+    - 川哥
+  小鳥遊さん:
+    - 小鸟游
+    - 小鳥遊
 includes:
-  "小鳥遊さん": ["Phoenix", "red phoenix", "jacK on Phoenix vs -ZONE- SaFaRi", "小鳥遊チミ", "ネコトリサーカス団", "7.3GHz vs Phoenix", "jacK on Phoenix", "譜面男子学院 中堅 小鳥 遊"]
-  "翠楼屋": ["翡翠マナ", "サファ太 vs 翠楼屋", "翠楼屋 vs あまくちジンジャー", "翡翠マナ -Memoir-", "KOP3rd with 翡翠マナ"]
-  "華火職人": ["7.3連発華火", "“Carpe diem” ＊ HAN∀BI", "隅田川華火大会", "ﾚょ†ょ／U丶\"┠(十,3、了ﾅﾆ"]
-  "隅田川星人": ["The ALiEN", "はっぴー星人", "超七味星人", "隅田川華火大会", "七味星人"]
-  "玉子豆腐": ["safaTAmago"]
-  "鳩ホルダー": ["The Dove", "サファ太 ＆ 鳩ホルダー", "鳩ホルぴー", "鳩サファzhel"]
-  "群青リコリス": ["しちみりこりす"]
-  "サファ太": ["-ZONE- SaFaRi", "Safata.Hz", "サファ太 vs 翠楼屋", "はっぴー & サファ太", "サファ太 vs -ZONE- SaFaRi", "ボコ太", "サファ太 Vs. Safari Vs. Saf Vs. モリモリさふぁた", "SΛFΛRI/RΦCHER", "SAFARI☆CAT", "サぴぴぴぴちネファ太太太太コ", "BELiZHEL vs  Safari", "BELiZHEL vs Safari", "サファ太 vs Luxizhel", "Safazhel", "サファ太 respects for 小鳥遊さん", "サファ太 ＆ 鳩ホルダー", "サファ太 Vs. Safari Vs. さふぁた", "Twinrook & Safari", "Safata.GHz", "jacK on Phoenix vs -ZONE- SaFaRi", "さふぁた", "ﾚょ†ょ／U丶\"┠(十,3、了ﾅﾆ", "safaTAmago", "PANDORA BOXXX"]
-  "すきやき奉行": ["Sukiyaki vs Happy"]
-  "はっぴー": ["緑風 犬三郎", "はっぴー & サファ太", "はぴネコ(はっぴー&ぴちネコ)", "シチミッピー", "原田ひろゆき", "三枝明那とはっぴー", "Luxizhel＆はっぴー", "ロシェ@ペンギン と はっぴー", "Luxiいぬ", "鳩ホルぴー", "たかなっぴー", "はっぴー星人", "はっぴー respects for 某S氏", "Sukiyaki vs Happy", "いぬっくまとボコっくま"]
-  "ぴちネコ": ["ロシアンブラック", "はぴネコ(はっぴー&ぴちネコ)", "SAFARI☆CAT", "サぴぴぴぴちネファ太太太太コ", "チェシャ猫とハートのジャック", "SHICHIMI☆CAT", "ネコトリサーカス団"]
-  "ものくろっく": ["一ノ瀬 リズ", "ものくロシェ"]
-  "あまくちジンジャー": ["EL DiABLO", "翠楼屋 vs あまくちジンジャー", "あまくちヘルツ"]
-  "みぞれヤナギ": ["みぞれヤナギ＆Jack"]
-  "じゃこレモン": ["僕の檸檬本当上手"]
-  "ロシェ@ペンギン": ["ロシェ@ペンギン と はっぴー", "ものくロシェ"]
-  "シチミヘルツ": ["7.3Hz", "7.3GHz", "Safata.Hz", "シチミッピー", "7.3Hz＋Jack", "BELiZHEL vs 7.3GHz", "7.3Hz+Jack", "LuxiHertz", "Safata.GHz", "あまくちヘルツ", "Hz-R.Arrow", "小鳥遊チミ", "7.3GHz -Før The Legends-", "超七味星人", "SHICHIMI☆CAT", "7.3連発華火", "七味星人", "しちみりこりす", "7.3GHz vs Phoenix"]
-  "メロンポップ": ["メロンポップ vs Luxizhel", "ずんだポップ"]
-  "カマボコ君": ["ボコ太", "いぬっくまとボコっくま"]
-  "Luxizhel": ["BELiZHEL", "Luxizhel＆はっぴー", "BELiZHEL vs  Safari", "BELiZHEL vs Safari", "サファ太 vs Luxizhel", "メロンポップ vs Luxizhel", "BELiZHEL vs 7.3GHz", "Safazhel", "LuxiHertz", "Luxiいぬ", "鳩サファzhel"]
-  "Jack": ["7.3Hz＋Jack", "みぞれヤナギ＆Jack", "7.3Hz+Jack", "R-blacX of JacQ", "jacK on Phoenix vs -ZONE- SaFaRi", "チェシャ猫とハートのジャック", "jacK on Phoenix", "JAQ", "\"H\"ack", "\"H\"ack underground (1)"]
-  "ミニミライト": ["Twinrook & Safari"]
-  "Redarrow": ["red phoenix", "Hz-R.Arrow"]
-  "合作だよ": ["maimai TEAM", "maimai TEAM DX", "BEYOND THE MEMORIES", "project_raputa", "maimai Fumen All-Stars", "PANDORA BOXXX", "PANDORA PARADOXXX", "ゲキ*チュウマイ Fumen Team", "みんなでマイマイマー", "舞舞10年ズ ～ファイナル～", "舞舞10年ズ (チャンとはっぴー)"]
-collabs:
-  "サファ太": ["834#3", "11554#3"]
-  "小鳥遊さん": ["852#3"]
-  "LabiLabi": ["852#3"]
-  "ぴちネコ": ["496#3", "777#3"]
-  "Jack": ["200#4", "233#2", "376#2", "379#2", "456#3", "496#3", "559#3", "766#3"]
-  "チャン@DP皆伝": ["456#3"]
-  "譜面-100号": ["100#2", "191#2", "212#2", "233#2", "239#3", "388#3"]
-  "はっぴー": ["100#2", "115#2", "188#3", "191#2", "212#2", "238#3", "239#3", "378#2", "388#3", "508#3", "766#3"]
-  "Moon Strix": ["777#3"]
-  "ニャイン": ["115#2", "238#3"]
-  "Revo@LC": ["376#2", "559#3"]
-  "mai-Star": ["188#3", "379#2"]
-  "某S氏": ["200#4"]
-  "rioN": ["378#2", "425#3"]
-  "しろいろ": ["508#3"]
+  écologie:
+    - えころじ
+    - Technologie
+  Emerald:
+    - エメラルド
+    - エメリャルド
+    - プレミアムエメラルデー
+    - eme＊rald
+  Jack:
+    - R-blacX of JacQ
+    - チェシャ猫とハートのジャック
+    - JAQ
+    - J.A.Q.
+    - '"H"ack'
+    - 切裂きジャック◆
+    - じゃっく
+  LabiLabi:
+    - Labi
+    - ラビラビ
+    - ascribable ALL It
+    - Baa Deb Fee Hot Silk Nil Tor
+    - lAbilabI wAndeRing iN tHe NighTmARe
+  Luxizhel:
+    - luxi
+    - zhel
+  Moon Strix:
+    - 梟
+    - mnooze strix
+    - ムーンストリックスエイヤッ↑(/>_<)/
+    - 六次元モーター
+    - フクロウ
+    - ふくろう
+    - Moon Striq
+    - ★スイーツ系すとりっくす★
+    - MTO-XXX:Luna Nemesis
+    - Six Dimensio'N' Motor
+    - CatastroPhe VS Damnation
+    - ∈〇〇И $+Я1><
+    - M■o◆ S■r◆x
+  Redarrow:
+    - Arrow
+    - red phoenix
+    - Hz-R.Arrow
+    - レドアロ
+    - レッドアロー
+    - 赤い矢
+    - 赤矢
+    - Little Devil Arrow
+    - Red+Lemon
+    - Red→→→Arrow
+    - Rainbow:Arrow
+    - RED IMPACT
+    - '[チュウニ学園] フェニックスレッド'
+  Revo@LC:
+    - Revo
+    - CLoveR
+    - れぼしゃま
+    - しばらくお待ち下さい。
+    - レヴォ・アット・エルシィ・煌
+  Techno Kitchen:
+    - techno
+    - kitchen
+    - wonder*
+    - Die Küche
+    - キッチン
+    - てーちゃんとくーちゃんとのーちゃん
+    - Technologie
+    - TEKNOKITCHEN 1796
+    - Bad Tapple!!
+    - ダメージノーツが来たら避けよう！
+    - DJ-BOMB
+    - HOLDから指を離すな！
+  あまくちジンジャー:
+    - EL DiABLO
+    - あまくちヘルツ
+  アミノハバキリ:
+    - blade
+    - habakiri
+    - ハバキリ
+    - 斬っぽいな
+    - リキバハノミア
+    - 剣技「気炎万丈の刃」
+    - 爆仙破々
+    - 羅波露斯
+    - アミノホワァ(゜Д゜)バキリ
+    - AMN feat.空色かりん
+    - 羅叢雲剣
+    - 羅破々斬
+    - APOCALYPSIS ENSIS
+    - あみのきゃはばないことばきり
+    - SukiyakY fused with HABaKURO
+    - 羅・ハBぁ斬i
+    - 羅雷切
+    - アミノハバスター
+    - 葉 芭穐莉
+    - habaqili
+    - そらいろカリン feat.Hba
+    - βλαδε
+  某S氏:
+    - S氏
+    - 某S
+    - エスシ・プリズムリバー
+    - 某⑨氏
+    - 某愚氏
+    - 某C氏「らんしゃまあああああああ」
+    - 某神S郎
+  チャン@DP皆伝:
+    - チャン@
+    - DP皆伝
+  譜面-100号:
+    - 100号
+    - 通信売百号
+    - Opus Negativus Centum
+    - .K.K.B.K.K.B.B
+    - C0DE FF9C
+    - Op.-C
+    - 譜面-100ンゴ
+    - 'DJ #-100'
+    - Hyphen Hecto Philharmonic Orchestra
+  合作だよ:
+    - maimai TEAM
+    - maimai TEAM DX
+    - BEYOND THE MEMORIES
+    - project_raputa
+    - maimai Fumen All-Stars
+    - PANDORA BOXXX
+    - PANDORA PARADOXXX
+    - ゲキ*チュウマイ Fumen Team
+    - みんなでマイマイマー
+    - 舞舞10年ズ ～ファイナル～
+    - 舞舞10年ズ (チャンとはっぴー)
+  群青リコリス:
+    - しちみりこりす
+  華火職人:
+    - 華火
+    - “Carpe diem” ＊ HAN∀BI
+    - ﾚょ†ょ／U丶"┠(十,3、了ﾅﾆ
+  はっぴー:
+    - 犬
+    - いぬ
+    - イヌ
+    - happy
+    - ハっぴー
+    - ハッピー
+    - シチミッピー
+    - 原田ひろゆき
+    - 鳩ホルぴー
+    - たかなっぴー
+    - ルンパッピー
+    - └(廿_廿 )┘わたしイヌリアン└( 廿_廿)┘
+    - Hiroyuki Cucumber Harada works
+    - Petit Dog's
+    - 頭お菓子なるは！っぴー
+    - ぱっぴー
+    - はッとしてぴー源郷
+    - ワンマーニ
+  原D:
+    - 羽田の白い彗星
+  鳩ホルダー:
+    - The Dove
+    - 鳩
+  イノシカ提灯:
+    - inoshika-Morpho
+  じゃこレモン:
+    - 檸檬
+    - じゃこ
+    - レモン
+    - lemon
+    - じЯこレゐモン
+    - レーモンスパークEx
+    - ジャコレモ
+    - dj JAKO meets DJ REDARROW
+    - XXX:THE MONSTER
+    - じゃンこラボックス
+    - J.J.L.L.J.L.L.
+    - ⌋ДΚΟ＜ε∈ΟИ
+    - ι”ャ⊇∠E・/
+    - MTO-XXX:Lem Nemesis
+    - れもんなよ
+    - Lemmoon
+    - '[＜＞|7&:]\/[＜＞＜\＞57&12'
+    - Free-stylemon
+    - J4K0 L5M0N
+    - Violetta VS MONSTER
+    - J.K.L.
+    - Monster -FINAL JUDGEMENT-
+  カマボコ君:
+    - ボコ太
+    - いぬっくまとボコっくま
+  如月 ゆかり:
+    - ゆかり
+    - Yukari
+  メロンポップ:
+    - ずんだポップ
+  ミニミライト:
+    - Twinrook
+    - Minimi
+    - ミニミ
+    - みにみ
+    - 嵐を呼ぶみーちゃん
+    - TwinDeaD LighT@Revenge Bash
+    - ずんだライト
+    - Adverse Light
+    - obj:mnnn
+    - THE IVORY LIGHT
+  みそかつ侍:
+    - ウムウム侍
+    - MiSOKATSU
+    - cotelette samurai
+  ミストルティン:
+    - Mistilteinn
+    - 緑化委員長・改 supported by †M†
+    - ミストのアトリエ
+  みぞれヤナギ:
+    - みぞれ
+    - ヤナギ
+    - salix
+    - mizoRequiem…
+    - 柳の枝に霙なし
+    - Mizo[r]e -Trinity-
+    - nelge-fondue
+  ものくろっく:
+    - 一ノ瀬 リズ
+    - ものく
+    - くろっく
+    - モノクロ
+    - xmxoxnxoxcxlxoxcxkx
+    - monoclock
+    - ものぽんず＊
+    - 白黒時計の貴重な〇〇シーン
+    - Δ.LIZ
+  ぴちネコ:
+    - 猫
+    - ネコ
+    - ねこ
+    - ロシアンブラック
+    - Russian Black
+    - SAFARI☆CAT
+    - サぴぴぴぴちネファ太太太太コ
+    - SHICHIMI☆CAT
+    - CatastroPhe
+    - Panther
+    - Black CaT Darkside
+    - Pizzicat
+    - キャット
+    - FREEDOM CAT
+    - GOODCAT
+    - .__. .. __.. __.. .. _._. ._ _
+    - Nyan NyaNyan Nyang!!
+    - 紅き鳳凰伝説を語り継しカタストロフィ
+    - R-BLACKJACK
+    - メルティンブラック
+    - せりなとなずながあーりんに助けを求める話
+    - わしがつるぺったんな話
+    - イロドリミドリで一番強いやつの話
+    - MSИ-00100
+    - ロシアンブラッ愚民@大崎
+    - 'PIZ2ICAT -CODENAME : CRYSTAL-'
+    - ぴ.ち.ネ.コ.
+    - FREEDOM "over-Over-OVERDRIVE" CAT!!!!!
+    - 'DJ #-100'
+    - RussianB1ack
+    - FREEDOM↑FLYHIGH↑CAT
+    - Ruby vs DJ CaT
+    - '#FR33DOMP1221C4T'
+    - イロドリミドリ・ラジオドラマ第101話
+    - イロドリミドリ セカンドシーズン・第13.1話
+  ロシェ@ペンギン:
+    - ロシェ
+    - ペンギン
+    - пингвин
+    - 匿名R＠P
+    - Rochesthésie
+    - ぺんぎん
+    - rocher
+    - R.@.P.
+    - Emperor
+  緑化委員長:
+    - りょっかとレモン
+    - 緑化
+  サファ太:
+    - safari
+    - safata
+    - ボコ太
+    - SΛFΛRI/RΦCHER
+    - サぴぴぴぴちネファ太太太太コ
+    - Safazhel
+    - さふぁた
+    - ﾚょ†ょ／U丶"┠(十,3、了ﾅﾆ
+    - PANDORA BOXXX
+    - 譜面戦士サフ
+    - サファ
+  シチミヘルツ:
+    - 7.3Hz
+    - GHz
+    - Hertz
+    - Safata.Hz
+    - シチミッピー
+    - あまくちヘルツ
+    - Hz-R.Arrow
+    - 小鳥遊チミ
+    - SHICHIMI☆CAT
+    - 7.3連発華火
+    - 七味星人
+    - しちみりこりす
+  そらいろカリン:
+    - 空色かりん
+    - 千夏ふるぱわーーー！
+    - ぱくぱくカリン
+    - -Shining Notes of the SeelischScore-
+  翠楼屋:
+    - 翡翠マナ
+    - SUILOUYA COLORS
+    - ス°イロ°ウヤ°
+  すきやき奉行:
+    - sukiyaki
+    - A Lucidness
+    - すきやき
+    - 奉行
+    - ｜とう｜たく｜うつ｜べし｜
+    - すき山 誠十行
+    - _ す き や き 奉 行
+    - 自然の脅威が君に襲い掛かる！
+    - SukiyakY fused with HABaKURO
+    - sacrifice
+    - magistrate
+    - ETARTSIGAM
+  隅田川星人:
+    - The ALiEN
+    - 星人
+    - 隅田川
+  小鳥遊さん:
+    - phoenix
+    - 小鳥遊
+    - ネコトリサーカス団
+    - 譜面男子学院 中堅 小鳥 遊
+    - 【暴龍天】dj TAKANASHI
+    - Op.hx
+    - ⊥∀K∀И∀2HI2∀И
+    - たけなしさん
+    - Queen P.H.X.
+  玉子豆腐:
+    - safaTAmago
+    - タマゴ
+    - 玉子どうふ
+    - 玉子が豆腐れしゅごいぃのぉおおょぉぉぅ!!
+  透明絵具:
+    - 透明ゾンビ・デ・ダンス
+  夕凪アロエ:
+    - アロエ
+    - あろえ
+    - Aloe
+    - '[!!Data41o3!!]'
+collabs: {}
