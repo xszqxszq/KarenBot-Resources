@@ -3,6 +3,7 @@
 # Runtime-local secrets / generated files
 /config/
 /plugins/
+/plugins
 /libs/
 /backup/
 /database/
