@@ -59544,66 +59544,6 @@
         ]
     },
     {
-        "id": 11484,
-        "name": "残響散歌",
-        "type": "DX",
-        "rights": "",
-        "artist": "Aimer",
-        "genre": "POPSアニメ",
-        "bpm": "171",
-        "version": "舞萌DX 2023",
-        "charts": [
-            {
-                "level": "3",
-                "levelValue": 3.0,
-                "notes": {
-                    "tap": 117,
-                    "hold": 12,
-                    "slide": 4,
-                    "touch": 22,
-                    "break": 7
-                },
-                "notesDesigner": ""
-            },
-            {
-                "level": "6",
-                "levelValue": 6.5,
-                "notes": {
-                    "tap": 295,
-                    "hold": 17,
-                    "slide": 7,
-                    "touch": 46,
-                    "break": 8
-                },
-                "notesDesigner": ""
-            },
-            {
-                "level": "9+",
-                "levelValue": 9.7,
-                "notes": {
-                    "tap": 370,
-                    "hold": 57,
-                    "slide": 50,
-                    "touch": 32,
-                    "break": 38
-                },
-                "notesDesigner": "翠楼屋"
-            },
-            {
-                "level": "13",
-                "levelValue": 13.4,
-                "notes": {
-                    "tap": 657,
-                    "hold": 44,
-                    "slide": 199,
-                    "touch": 22,
-                    "break": 17
-                },
-                "notesDesigner": "Jack"
-            }
-        ]
-    },
-    {
         "id": 11485,
         "name": "フォニイ",
         "type": "DX",
