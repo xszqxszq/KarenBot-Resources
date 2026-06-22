@@ -695,7 +695,7 @@
             },
             {
                 "level": "12+",
-                "levelValue": 12.8,
+                "levelValue": 12.9,
                 "notes": {
                     "tap": 293,
                     "hold": 23,
@@ -1306,8 +1306,8 @@
                 "notesDesigner": "はっぴー"
             },
             {
-                "level": "12+",
-                "levelValue": 12.8,
+                "level": "13",
+                "levelValue": 13.0,
                 "notes": {
                     "tap": 254,
                     "hold": 57,
@@ -1714,8 +1714,8 @@
                 "notesDesigner": "譜面-100号"
             },
             {
-                "level": "12+",
-                "levelValue": 12.9,
+                "level": "13",
+                "levelValue": 13.0,
                 "notes": {
                     "tap": 416,
                     "hold": 0,
@@ -2863,7 +2863,7 @@
                     "touch": 0,
                     "break": 3
                 },
-                "notesDesigner": "合作だよ"
+                "notesDesigner": "譜面-100号とはっぴー"
             },
             {
                 "level": "12",
@@ -3310,8 +3310,8 @@
                 "notesDesigner": "譜面-100号"
             },
             {
-                "level": "12+",
-                "levelValue": 12.8,
+                "level": "13",
+                "levelValue": 13.0,
                 "notes": {
                     "tap": 370,
                     "hold": 96,
@@ -3619,7 +3619,7 @@
                     "touch": 0,
                     "break": 2
                 },
-                "notesDesigner": "合作だよ"
+                "notesDesigner": "ニャインとはっぴー"
             },
             {
                 "level": "13+",
@@ -3694,8 +3694,8 @@
                 "notesDesigner": "ニャイン"
             },
             {
-                "level": "13",
-                "levelValue": 13.0,
+                "level": "12+",
+                "levelValue": 12.9,
                 "notes": {
                     "tap": 366,
                     "hold": 68,
@@ -5206,8 +5206,8 @@
                 "notesDesigner": "ニャイン"
             },
             {
-                "level": "12+",
-                "levelValue": 12.9,
+                "level": "13",
+                "levelValue": 13.0,
                 "notes": {
                     "tap": 374,
                     "hold": 55,
@@ -5959,7 +5959,7 @@
                     "touch": 0,
                     "break": 16
                 },
-                "notesDesigner": "合作だよ"
+                "notesDesigner": "mai-Starとはっぴー"
             }
         ]
     },
@@ -6127,7 +6127,7 @@
                     "touch": 0,
                     "break": 17
                 },
-                "notesDesigner": "合作だよ"
+                "notesDesigner": "譜面-100号とはっぴー"
             },
             {
                 "level": "14",
@@ -6382,8 +6382,8 @@
                 "notesDesigner": "はっぴー"
             },
             {
-                "level": "12+",
-                "levelValue": 12.9,
+                "level": "13",
+                "levelValue": 13.3,
                 "notes": {
                     "tap": 402,
                     "hold": 74,
@@ -6397,7 +6397,7 @@
     },
     {
         "id": 200,
-        "name": "Bad Apple!! feat nomico",
+        "name": "Bad Apple!! feat.nomico",
         "type": "SD",
         "rights": "©上海アリス幻樂団",
         "artist": "Masayoshi Minoshima",
@@ -6463,7 +6463,7 @@
                     "touch": 0,
                     "break": 35
                 },
-                "notesDesigner": "合作だよ"
+                "notesDesigner": "Jack vs 某S氏"
             }
         ]
     },
@@ -6589,7 +6589,7 @@
     },
     {
         "id": 203,
-        "name": "Help me, ERINNNNNN!!",
+        "name": "Help me, ERINNNNNN!!（Band ver.）",
         "type": "SD",
         "rights": "©上海アリス幻樂団",
         "artist": "ビートまりお(COOL＆CREATE)",
@@ -7063,7 +7063,7 @@
                     "touch": 0,
                     "break": 1
                 },
-                "notesDesigner": "合作だよ"
+                "notesDesigner": "譜面-100号とはっぴー"
             },
             {
                 "level": "12+",
@@ -7498,8 +7498,8 @@
                 "notesDesigner": "mai-Star"
             },
             {
-                "level": "12+",
-                "levelValue": 12.8,
+                "level": "13",
+                "levelValue": 13.0,
                 "notes": {
                     "tap": 271,
                     "hold": 4,
@@ -8179,7 +8179,7 @@
                     "touch": 0,
                     "break": 34
                 },
-                "notesDesigner": "合作だよ"
+                "notesDesigner": "Jack vs 譜面-100号"
             },
             {
                 "level": "14",
@@ -8491,7 +8491,7 @@
                     "touch": 0,
                     "break": 42
                 },
-                "notesDesigner": "合作だよ"
+                "notesDesigner": "ニャインとはっぴー"
             }
         ]
     },
@@ -8551,7 +8551,7 @@
                     "touch": 0,
                     "break": 6
                 },
-                "notesDesigner": "合作だよ"
+                "notesDesigner": "譜面-100号とはっぴー"
             },
             {
                 "level": "14",
@@ -8806,8 +8806,8 @@
                 "notesDesigner": "rioN"
             },
             {
-                "level": "12+",
-                "levelValue": 12.8,
+                "level": "13",
+                "levelValue": 13.0,
                 "notes": {
                     "tap": 429,
                     "hold": 58,
@@ -9791,7 +9791,7 @@
             },
             {
                 "level": "13",
-                "levelValue": 13.1,
+                "levelValue": 13.3,
                 "notes": {
                     "tap": 433,
                     "hold": 29,
@@ -10487,7 +10487,7 @@
             },
             {
                 "level": "12+",
-                "levelValue": 12.8,
+                "levelValue": 12.9,
                 "notes": {
                     "tap": 485,
                     "hold": 10,
@@ -11314,8 +11314,8 @@
                 "notesDesigner": "はっぴー"
             },
             {
-                "level": "12+",
-                "levelValue": 12.9,
+                "level": "13",
+                "levelValue": 13.0,
                 "notes": {
                     "tap": 458,
                     "hold": 70,
@@ -13810,8 +13810,8 @@
                 "notesDesigner": "某S氏"
             },
             {
-                "level": "12+",
-                "levelValue": 12.9,
+                "level": "13",
+                "levelValue": 13.4,
                 "notes": {
                     "tap": 452,
                     "hold": 30,
@@ -14383,7 +14383,7 @@
                     "touch": 0,
                     "break": 7
                 },
-                "notesDesigner": "合作だよ"
+                "notesDesigner": "Revo@LC vs Jack"
             },
             {
                 "level": "13+",
@@ -14443,7 +14443,7 @@
                     "touch": 0,
                     "break": 17
                 },
-                "notesDesigner": "合作だよ"
+                "notesDesigner": "rioNとはっぴー"
             },
             {
                 "level": "13",
@@ -14515,7 +14515,7 @@
                     "touch": 0,
                     "break": 19
                 },
-                "notesDesigner": "合作だよ"
+                "notesDesigner": "Jack vs mai-Star"
             },
             {
                 "level": "14",
@@ -15067,7 +15067,7 @@
                     "touch": 0,
                     "break": 27
                 },
-                "notesDesigner": "合作だよ"
+                "notesDesigner": "譜面-100号とはっぴー"
             }
         ]
     },
@@ -16231,7 +16231,7 @@
                     "touch": 0,
                     "break": 10
                 },
-                "notesDesigner": "合作だよ"
+                "notesDesigner": "rioNとはっぴー"
             }
         ]
     },
@@ -17251,7 +17251,7 @@
                     "touch": 0,
                     "break": 54
                 },
-                "notesDesigner": "合作だよ"
+                "notesDesigner": "チャン@DP皆伝 vs Jack"
             }
         ]
     },
@@ -18727,7 +18727,7 @@
                     "touch": 0,
                     "break": 41
                 },
-                "notesDesigner": "合作だよ"
+                "notesDesigner": "ぴちネコ vs Jack"
             },
             {
                 "level": "14",
@@ -18790,8 +18790,8 @@
                 "notesDesigner": "Jack"
             },
             {
-                "level": "13",
-                "levelValue": 13.0,
+                "level": "12+",
+                "levelValue": 12.9,
                 "notes": {
                     "tap": 639,
                     "hold": 28,
@@ -18910,8 +18910,8 @@
                 "notesDesigner": "ぴちネコ"
             },
             {
-                "level": "12+",
-                "levelValue": 12.9,
+                "level": "13",
+                "levelValue": 13.0,
                 "notes": {
                     "tap": 603,
                     "hold": 27,
@@ -18967,7 +18967,7 @@
                     "touch": 0,
                     "break": 21
                 },
-                "notesDesigner": "合作だよ"
+                "notesDesigner": "畳返しとはっぴー"
             },
             {
                 "level": "11+",
@@ -18979,7 +18979,7 @@
                     "touch": 0,
                     "break": 26
                 },
-                "notesDesigner": "合作だよ"
+                "notesDesigner": "しろいろとはっぴー"
             }
         ]
     },
@@ -19222,8 +19222,8 @@
                 "notesDesigner": "Jack"
             },
             {
-                "level": "13",
-                "levelValue": 13.0,
+                "level": "12+",
+                "levelValue": 12.9,
                 "notes": {
                     "tap": 338,
                     "hold": 116,
@@ -20092,7 +20092,7 @@
         "name": "色は匂へど散りぬるを",
         "type": "SD",
         "rights": "©上海アリス幻樂団",
-        "artist": "幽閉サテライト",
+        "artist": "幽閉サテライト(Produce:嵯峨飛鳥 Arranged:Iceon)",
         "genre": "東方Project",
         "bpm": "138",
         "version": "MURASAKi",
@@ -20152,7 +20152,7 @@
         "name": "月に叢雲華に風",
         "type": "SD",
         "rights": "©上海アリス幻樂団",
-        "artist": "幽閉サテライト",
+        "artist": "幽閉サテライト(Produce:嵯峨飛鳥 Arranged:Iceon)",
         "genre": "東方Project",
         "bpm": "160",
         "version": "PiNK PLUS",
@@ -20392,7 +20392,7 @@
         "name": "泡沫、哀のまほろば",
         "type": "SD",
         "rights": "©上海アリス幻樂団",
-        "artist": "幽閉サテライト",
+        "artist": "幽閉サテライト(Produce:嵯峨飛鳥 Arranged:Iceon)",
         "genre": "東方Project",
         "bpm": "155",
         "version": "MiLK",
@@ -20452,7 +20452,7 @@
         "name": "華鳥風月",
         "type": "SD",
         "rights": "©上海アリス幻樂団",
-        "artist": "幽閉サテライト",
+        "artist": "幽閉サテライト(Produce:嵯峨飛鳥 Arranged:Iceon)",
         "genre": "東方Project",
         "bpm": "123",
         "version": "MURASAKi PLUS",
@@ -21223,7 +21223,7 @@
                     "touch": 0,
                     "break": 20
                 },
-                "notesDesigner": "合作だよ"
+                "notesDesigner": "Revo@LC vs Jack"
             }
         ]
     },
@@ -27862,8 +27862,8 @@
                 "notesDesigner": "某S氏"
             },
             {
-                "level": "13",
-                "levelValue": 13.0,
+                "level": "12+",
+                "levelValue": 12.9,
                 "notes": {
                     "tap": 599,
                     "hold": 33,
@@ -29359,7 +29359,7 @@
                     "touch": 0,
                     "break": 11
                 },
-                "notesDesigner": "合作だよ"
+                "notesDesigner": "はっぴー vs Jack"
             }
         ]
     },
@@ -29959,7 +29959,7 @@
                     "touch": 0,
                     "break": 42
                 },
-                "notesDesigner": "合作だよ"
+                "notesDesigner": "ぴちネコ vs Moon Strix"
             },
             {
                 "level": "13+",
@@ -30322,8 +30322,8 @@
                 "notesDesigner": "玉子豆腐"
             },
             {
-                "level": "13",
-                "levelValue": 13.0,
+                "level": "12+",
+                "levelValue": 12.9,
                 "notes": {
                     "tap": 408,
                     "hold": 40,
@@ -33031,7 +33031,7 @@
                     "touch": 0,
                     "break": 61
                 },
-                "notesDesigner": "合作だよ"
+                "notesDesigner": "小鳥遊さん vs LabiLabi"
             }
         ]
     },
@@ -33082,8 +33082,8 @@
                 "notesDesigner": "はっぴー"
             },
             {
-                "level": "12+",
-                "levelValue": 12.9,
+                "level": "13",
+                "levelValue": 13.0,
                 "notes": {
                     "tap": 540,
                     "hold": 19,
@@ -33175,7 +33175,7 @@
                     "touch": 0,
                     "break": 6
                 },
-                "notesDesigner": "-"
+                "notesDesigner": ""
             },
             {
                 "level": "8",
@@ -33187,7 +33187,7 @@
                     "touch": 0,
                     "break": 11
                 },
-                "notesDesigner": "-"
+                "notesDesigner": ""
             },
             {
                 "level": "12",
@@ -33235,7 +33235,7 @@
                     "touch": 0,
                     "break": 11
                 },
-                "notesDesigner": ""
+                "notesDesigner": "-"
             },
             {
                 "level": "7",
@@ -33247,7 +33247,7 @@
                     "touch": 0,
                     "break": 12
                 },
-                "notesDesigner": ""
+                "notesDesigner": "-"
             },
             {
                 "level": "11",
@@ -33295,7 +33295,7 @@
                     "touch": 0,
                     "break": 12
                 },
-                "notesDesigner": ""
+                "notesDesigner": "-"
             },
             {
                 "level": "8+",
@@ -33307,7 +33307,7 @@
                     "touch": 0,
                     "break": 16
                 },
-                "notesDesigner": ""
+                "notesDesigner": "-"
             },
             {
                 "level": "12",
@@ -33355,7 +33355,7 @@
                     "touch": 0,
                     "break": 11
                 },
-                "notesDesigner": "-"
+                "notesDesigner": ""
             },
             {
                 "level": "9",
@@ -33367,7 +33367,7 @@
                     "touch": 0,
                     "break": 14
                 },
-                "notesDesigner": "-"
+                "notesDesigner": ""
             },
             {
                 "level": "12+",
@@ -33510,6 +33510,66 @@
                     "slide": 77,
                     "touch": 0,
                     "break": 26
+                },
+                "notesDesigner": "サファ太"
+            }
+        ]
+    },
+    {
+        "id": 10030,
+        "name": "ネコ日和。",
+        "type": "DX",
+        "rights": "",
+        "artist": "Kai/能登有沙",
+        "genre": "maimai",
+        "bpm": "171",
+        "version": "舞萌DX 2026",
+        "charts": [
+            {
+                "level": "2",
+                "levelValue": 2.0,
+                "notes": {
+                    "tap": 97,
+                    "hold": 11,
+                    "slide": 6,
+                    "touch": 4,
+                    "break": 8
+                },
+                "notesDesigner": ""
+            },
+            {
+                "level": "6",
+                "levelValue": 6.5,
+                "notes": {
+                    "tap": 162,
+                    "hold": 12,
+                    "slide": 6,
+                    "touch": 28,
+                    "break": 10
+                },
+                "notesDesigner": ""
+            },
+            {
+                "level": "9",
+                "levelValue": 9.5,
+                "notes": {
+                    "tap": 216,
+                    "hold": 38,
+                    "slide": 14,
+                    "touch": 21,
+                    "break": 30
+                },
+                "notesDesigner": "Luxizhel"
+            },
+            {
+                "level": "13+",
+                "levelValue": 13.7,
+                "notes": {
+                    "tap": 417,
+                    "hold": 8,
+                    "slide": 91,
+                    "touch": 41,
+                    "break": 74
                 },
                 "notesDesigner": "サファ太"
             }
@@ -33683,7 +33743,7 @@
             },
             {
                 "level": "13",
-                "levelValue": 13.0,
+                "levelValue": 13.2,
                 "notes": {
                     "tap": 372,
                     "hold": 43,
@@ -33692,6 +33752,66 @@
                     "break": 16
                 },
                 "notesDesigner": "Luxizhel"
+            }
+        ]
+    },
+    {
+        "id": 10122,
+        "name": "ゴーゴー幽霊船",
+        "type": "DX",
+        "rights": "",
+        "artist": "米津玄師",
+        "genre": "niconicoボーカロイド",
+        "bpm": "180",
+        "version": "舞萌DX 2026",
+        "charts": [
+            {
+                "level": "3",
+                "levelValue": 3.0,
+                "notes": {
+                    "tap": 102,
+                    "hold": 9,
+                    "slide": 4,
+                    "touch": 7,
+                    "break": 2
+                },
+                "notesDesigner": ""
+            },
+            {
+                "level": "7",
+                "levelValue": 7.0,
+                "notes": {
+                    "tap": 210,
+                    "hold": 16,
+                    "slide": 4,
+                    "touch": 28,
+                    "break": 6
+                },
+                "notesDesigner": ""
+            },
+            {
+                "level": "10",
+                "levelValue": 10.0,
+                "notes": {
+                    "tap": 334,
+                    "hold": 45,
+                    "slide": 33,
+                    "touch": 5,
+                    "break": 15
+                },
+                "notesDesigner": "Luxizhel"
+            },
+            {
+                "level": "13",
+                "levelValue": 13.0,
+                "notes": {
+                    "tap": 309,
+                    "hold": 41,
+                    "slide": 101,
+                    "touch": 72,
+                    "break": 20
+                },
+                "notesDesigner": "鳩ホルダー"
             }
         ]
     },
@@ -33715,7 +33835,7 @@
                     "touch": 8,
                     "break": 5
                 },
-                "notesDesigner": ""
+                "notesDesigner": "-"
             },
             {
                 "level": "6+",
@@ -33727,7 +33847,7 @@
                     "touch": 30,
                     "break": 4
                 },
-                "notesDesigner": ""
+                "notesDesigner": "-"
             },
             {
                 "level": "10+",
@@ -33742,8 +33862,8 @@
                 "notesDesigner": "ロシェ@ペンギン"
             },
             {
-                "level": "13",
-                "levelValue": 13.0,
+                "level": "12+",
+                "levelValue": 12.9,
                 "notes": {
                     "tap": 324,
                     "hold": 31,
@@ -33775,7 +33895,7 @@
                     "touch": 22,
                     "break": 1
                 },
-                "notesDesigner": ""
+                "notesDesigner": "-"
             },
             {
                 "level": "7",
@@ -33787,7 +33907,7 @@
                     "touch": 13,
                     "break": 2
                 },
-                "notesDesigner": ""
+                "notesDesigner": "-"
             },
             {
                 "level": "11+",
@@ -33803,7 +33923,7 @@
             },
             {
                 "level": "13",
-                "levelValue": 13.1,
+                "levelValue": 13.4,
                 "notes": {
                     "tap": 315,
                     "hold": 21,
@@ -33895,7 +34015,7 @@
                     "touch": 8,
                     "break": 5
                 },
-                "notesDesigner": "-"
+                "notesDesigner": ""
             },
             {
                 "level": "7",
@@ -33907,7 +34027,7 @@
                     "touch": 11,
                     "break": 8
                 },
-                "notesDesigner": "-"
+                "notesDesigner": ""
             },
             {
                 "level": "9",
@@ -33955,7 +34075,7 @@
                     "touch": 4,
                     "break": 6
                 },
-                "notesDesigner": "-"
+                "notesDesigner": ""
             },
             {
                 "level": "7",
@@ -33967,7 +34087,7 @@
                     "touch": 29,
                     "break": 5
                 },
-                "notesDesigner": "-"
+                "notesDesigner": ""
             },
             {
                 "level": "10",
@@ -34135,7 +34255,7 @@
                     "touch": 8,
                     "break": 6
                 },
-                "notesDesigner": ""
+                "notesDesigner": "-"
             },
             {
                 "level": "7+",
@@ -34147,7 +34267,7 @@
                     "touch": 43,
                     "break": 7
                 },
-                "notesDesigner": ""
+                "notesDesigner": "-"
             },
             {
                 "level": "10+",
@@ -34195,7 +34315,7 @@
                     "touch": 7,
                     "break": 25
                 },
-                "notesDesigner": ""
+                "notesDesigner": "-"
             },
             {
                 "level": "7",
@@ -34207,7 +34327,7 @@
                     "touch": 27,
                     "break": 16
                 },
-                "notesDesigner": ""
+                "notesDesigner": "-"
             },
             {
                 "level": "9",
@@ -34255,7 +34375,7 @@
                     "touch": 6,
                     "break": 10
                 },
-                "notesDesigner": ""
+                "notesDesigner": "-"
             },
             {
                 "level": "7+",
@@ -34267,7 +34387,7 @@
                     "touch": 28,
                     "break": 8
                 },
-                "notesDesigner": ""
+                "notesDesigner": "-"
             },
             {
                 "level": "11+",
@@ -34435,7 +34555,7 @@
                     "touch": 7,
                     "break": 3
                 },
-                "notesDesigner": "-"
+                "notesDesigner": ""
             },
             {
                 "level": "7",
@@ -34447,7 +34567,7 @@
                     "touch": 22,
                     "break": 4
                 },
-                "notesDesigner": "-"
+                "notesDesigner": ""
             },
             {
                 "level": "11",
@@ -34675,7 +34795,7 @@
                     "touch": 10,
                     "break": 5
                 },
-                "notesDesigner": ""
+                "notesDesigner": "-"
             },
             {
                 "level": "7+",
@@ -34687,7 +34807,7 @@
                     "touch": 27,
                     "break": 11
                 },
-                "notesDesigner": ""
+                "notesDesigner": "-"
             },
             {
                 "level": "11",
@@ -34795,7 +34915,7 @@
                     "touch": 12,
                     "break": 1
                 },
-                "notesDesigner": ""
+                "notesDesigner": "-"
             },
             {
                 "level": "6",
@@ -34807,7 +34927,7 @@
                     "touch": 24,
                     "break": 12
                 },
-                "notesDesigner": ""
+                "notesDesigner": "-"
             },
             {
                 "level": "9",
@@ -35035,7 +35155,7 @@
                     "touch": 8,
                     "break": 3
                 },
-                "notesDesigner": "-"
+                "notesDesigner": ""
             },
             {
                 "level": "7+",
@@ -35047,7 +35167,7 @@
                     "touch": 30,
                     "break": 6
                 },
-                "notesDesigner": "-"
+                "notesDesigner": ""
             },
             {
                 "level": "11",
@@ -35215,7 +35335,7 @@
                     "touch": 7,
                     "break": 7
                 },
-                "notesDesigner": "-"
+                "notesDesigner": ""
             },
             {
                 "level": "8",
@@ -35227,7 +35347,7 @@
                     "touch": 26,
                     "break": 2
                 },
-                "notesDesigner": "-"
+                "notesDesigner": ""
             },
             {
                 "level": "12",
@@ -35440,7 +35560,7 @@
         "name": "色は匂へど散りぬるを",
         "type": "DX",
         "rights": "©上海アリス幻樂団",
-        "artist": "幽閉サテライト",
+        "artist": "幽閉サテライト(Produce:嵯峨飛鳥 Arranged:Iceon)",
         "genre": "東方Project",
         "bpm": "138",
         "version": "舞萌DX 2024",
@@ -35500,7 +35620,7 @@
         "name": "月に叢雲華に風",
         "type": "DX",
         "rights": "©上海アリス幻樂団",
-        "artist": "幽閉サテライト",
+        "artist": "幽閉サテライト(Produce:嵯峨飛鳥 Arranged:Iceon)",
         "genre": "東方Project",
         "bpm": "160",
         "version": "舞萌DX",
@@ -35602,8 +35722,8 @@
                 "notesDesigner": "サファ太"
             },
             {
-                "level": "12+",
-                "levelValue": 12.9,
+                "level": "13",
+                "levelValue": 13.2,
                 "notes": {
                     "tap": 444,
                     "hold": 75,
@@ -35755,7 +35875,7 @@
                     "touch": 22,
                     "break": 6
                 },
-                "notesDesigner": ""
+                "notesDesigner": "-"
             },
             {
                 "level": "8",
@@ -35767,7 +35887,7 @@
                     "touch": 19,
                     "break": 2
                 },
-                "notesDesigner": ""
+                "notesDesigner": "-"
             },
             {
                 "level": "11",
@@ -35875,7 +35995,7 @@
                     "touch": 14,
                     "break": 8
                 },
-                "notesDesigner": ""
+                "notesDesigner": "-"
             },
             {
                 "level": "8",
@@ -35887,7 +36007,7 @@
                     "touch": 25,
                     "break": 16
                 },
-                "notesDesigner": ""
+                "notesDesigner": "-"
             },
             {
                 "level": "11+",
@@ -36055,7 +36175,7 @@
                     "touch": 7,
                     "break": 6
                 },
-                "notesDesigner": "-"
+                "notesDesigner": ""
             },
             {
                 "level": "7",
@@ -36067,7 +36187,7 @@
                     "touch": 8,
                     "break": 4
                 },
-                "notesDesigner": "-"
+                "notesDesigner": ""
             },
             {
                 "level": "9",
@@ -36175,7 +36295,7 @@
                     "touch": 17,
                     "break": 2
                 },
-                "notesDesigner": ""
+                "notesDesigner": "-"
             },
             {
                 "level": "7",
@@ -36187,7 +36307,7 @@
                     "touch": 11,
                     "break": 14
                 },
-                "notesDesigner": ""
+                "notesDesigner": "-"
             },
             {
                 "level": "9+",
@@ -36442,8 +36562,8 @@
                 "notesDesigner": "Jack"
             },
             {
-                "level": "12+",
-                "levelValue": 12.9,
+                "level": "13",
+                "levelValue": 13.3,
                 "notes": {
                     "tap": 492,
                     "hold": 53,
@@ -36487,7 +36607,7 @@
                     "touch": 11,
                     "break": 7
                 },
-                "notesDesigner": ""
+                "notesDesigner": "-"
             },
             {
                 "level": "7+",
@@ -36499,7 +36619,7 @@
                     "touch": 12,
                     "break": 9
                 },
-                "notesDesigner": ""
+                "notesDesigner": "-"
             },
             {
                 "level": "10",
@@ -37246,8 +37366,8 @@
                 "notesDesigner": "小鳥遊さん"
             },
             {
-                "level": "12+",
-                "levelValue": 12.9,
+                "level": "13",
+                "levelValue": 13.0,
                 "notes": {
                     "tap": 474,
                     "hold": 68,
@@ -39870,7 +39990,7 @@
         "rights": "",
         "artist": "xi",
         "genre": "ゲームバラエティ",
-        "bpm": "93",
+        "bpm": "191",
         "version": "舞萌DX",
         "charts": [
             {
@@ -40123,7 +40243,7 @@
                     "touch": 9,
                     "break": 11
                 },
-                "notesDesigner": "-"
+                "notesDesigner": ""
             },
             {
                 "level": "8+",
@@ -40135,7 +40255,7 @@
                     "touch": 32,
                     "break": 14
                 },
-                "notesDesigner": "-"
+                "notesDesigner": ""
             },
             {
                 "level": "13",
@@ -40183,7 +40303,7 @@
                     "touch": 24,
                     "break": 4
                 },
-                "notesDesigner": "-"
+                "notesDesigner": ""
             },
             {
                 "level": "7+",
@@ -40195,7 +40315,7 @@
                     "touch": 39,
                     "break": 6
                 },
-                "notesDesigner": "-"
+                "notesDesigner": ""
             },
             {
                 "level": "11",
@@ -40243,7 +40363,7 @@
                     "touch": 38,
                     "break": 3
                 },
-                "notesDesigner": "-"
+                "notesDesigner": ""
             },
             {
                 "level": "7+",
@@ -40255,7 +40375,7 @@
                     "touch": 12,
                     "break": 10
                 },
-                "notesDesigner": "-"
+                "notesDesigner": ""
             },
             {
                 "level": "10+",
@@ -40303,7 +40423,7 @@
                     "touch": 13,
                     "break": 5
                 },
-                "notesDesigner": "-"
+                "notesDesigner": ""
             },
             {
                 "level": "7+",
@@ -40315,7 +40435,7 @@
                     "touch": 17,
                     "break": 5
                 },
-                "notesDesigner": "-"
+                "notesDesigner": ""
             },
             {
                 "level": "11",
@@ -40363,7 +40483,7 @@
                     "touch": 10,
                     "break": 4
                 },
-                "notesDesigner": "-"
+                "notesDesigner": ""
             },
             {
                 "level": "8",
@@ -40375,7 +40495,7 @@
                     "touch": 36,
                     "break": 15
                 },
-                "notesDesigner": "-"
+                "notesDesigner": ""
             },
             {
                 "level": "11+",
@@ -40423,7 +40543,7 @@
                     "touch": 21,
                     "break": 4
                 },
-                "notesDesigner": "-"
+                "notesDesigner": ""
             },
             {
                 "level": "7+",
@@ -40435,7 +40555,7 @@
                     "touch": 35,
                     "break": 7
                 },
-                "notesDesigner": "-"
+                "notesDesigner": ""
             },
             {
                 "level": "10+",
@@ -40483,7 +40603,7 @@
                     "touch": 12,
                     "break": 6
                 },
-                "notesDesigner": "-"
+                "notesDesigner": ""
             },
             {
                 "level": "7+",
@@ -40495,7 +40615,7 @@
                     "touch": 40,
                     "break": 16
                 },
-                "notesDesigner": "-"
+                "notesDesigner": ""
             },
             {
                 "level": "10+",
@@ -41482,8 +41602,8 @@
                 "notesDesigner": "はっぴー"
             },
             {
-                "level": "12+",
-                "levelValue": 12.9,
+                "level": "13",
+                "levelValue": 13.2,
                 "notes": {
                     "tap": 425,
                     "hold": 81,
@@ -41915,7 +42035,7 @@
             },
             {
                 "level": "12+",
-                "levelValue": 12.8,
+                "levelValue": 12.9,
                 "notes": {
                     "tap": 475,
                     "hold": 50,
@@ -43127,7 +43247,7 @@
             },
             {
                 "level": "13",
-                "levelValue": 13.0,
+                "levelValue": 13.1,
                 "notes": {
                     "tap": 580,
                     "hold": 22,
@@ -48767,7 +48887,7 @@
             },
             {
                 "level": "13",
-                "levelValue": 13.1,
+                "levelValue": 13.2,
                 "notes": {
                     "tap": 663,
                     "hold": 81,
@@ -49264,7 +49384,7 @@
         "name": "今、誰が為のかがり火へ",
         "type": "DX",
         "rights": "©上海アリス幻樂団",
-        "artist": "幽閉サテライト",
+        "artist": "幽閉サテライト(Produce:嵯峨飛鳥 Arranged:Iceon)",
         "genre": "東方Project",
         "bpm": "156",
         "version": "舞萌DX 2022",
@@ -50627,7 +50747,7 @@
             },
             {
                 "level": "13",
-                "levelValue": 13.1,
+                "levelValue": 13.3,
                 "notes": {
                     "tap": 461,
                     "hold": 19,
@@ -51467,7 +51587,7 @@
             },
             {
                 "level": "13",
-                "levelValue": 13.1,
+                "levelValue": 13.2,
                 "notes": {
                     "tap": 613,
                     "hold": 80,
@@ -52571,7 +52691,7 @@
             },
             {
                 "level": "13",
-                "levelValue": 13.0,
+                "levelValue": 13.1,
                 "notes": {
                     "tap": 430,
                     "hold": 0,
@@ -54046,8 +54166,8 @@
                 "notesDesigner": "翠楼屋"
             },
             {
-                "level": "12+",
-                "levelValue": 12.8,
+                "level": "13",
+                "levelValue": 13.0,
                 "notes": {
                     "tap": 504,
                     "hold": 35,
@@ -55607,7 +55727,7 @@
             },
             {
                 "level": "13",
-                "levelValue": 13.0,
+                "levelValue": 13.2,
                 "notes": {
                     "tap": 621,
                     "hold": 54,
@@ -56956,7 +57076,7 @@
         "name": "紅に染まる恋の花",
         "type": "DX",
         "rights": "©上海アリス幻樂団",
-        "artist": "幽閉サテライト",
+        "artist": "幽閉サテライト(Produce:嵯峨飛鳥 Arranged:Iceon)",
         "genre": "東方Project",
         "bpm": "140",
         "version": "舞萌DX 2023",
@@ -60214,8 +60334,8 @@
                 "notesDesigner": "うさぎランドリー"
             },
             {
-                "level": "12+",
-                "levelValue": 12.9,
+                "level": "13",
+                "levelValue": 13.0,
                 "notes": {
                     "tap": 427,
                     "hold": 37,
@@ -60284,66 +60404,6 @@
                     "break": 52
                 },
                 "notesDesigner": "小鳥遊さん"
-            }
-        ]
-    },
-    {
-        "id": 11497,
-        "name": "アマカミサマ",
-        "type": "DX",
-        "rights": "©Sana Natori",
-        "artist": "名取さな",
-        "genre": "POPSアニメ",
-        "bpm": "174",
-        "version": "舞萌DX 2023",
-        "charts": [
-            {
-                "level": "3",
-                "levelValue": 3.0,
-                "notes": {
-                    "tap": 118,
-                    "hold": 11,
-                    "slide": 3,
-                    "touch": 8,
-                    "break": 2
-                },
-                "notesDesigner": ""
-            },
-            {
-                "level": "6+",
-                "levelValue": 6.8,
-                "notes": {
-                    "tap": 252,
-                    "hold": 31,
-                    "slide": 11,
-                    "touch": 26,
-                    "break": 6
-                },
-                "notesDesigner": ""
-            },
-            {
-                "level": "9",
-                "levelValue": 9.5,
-                "notes": {
-                    "tap": 345,
-                    "hold": 42,
-                    "slide": 26,
-                    "touch": 6,
-                    "break": 10
-                },
-                "notesDesigner": "アマリリス"
-            },
-            {
-                "level": "12+",
-                "levelValue": 12.7,
-                "notes": {
-                    "tap": 390,
-                    "hold": 70,
-                    "slide": 79,
-                    "touch": 145,
-                    "break": 17
-                },
-                "notesDesigner": "アマリリスせんせえ"
             }
         ]
     },
@@ -60472,7 +60532,7 @@
         "name": "秋の未確認生物",
         "type": "DX",
         "rights": "©MTK/INTERNET Co., Ltd.",
-        "artist": "子牛",
+        "artist": "子牛 feat.音街ウナ",
         "genre": "niconicoボーカロイド",
         "bpm": "185",
         "version": "舞萌DX 2023",
@@ -60514,8 +60574,8 @@
                 "notesDesigner": "ロシェ@ペンギン"
             },
             {
-                "level": "12+",
-                "levelValue": 12.9,
+                "level": "13",
+                "levelValue": 13.0,
                 "notes": {
                     "tap": 638,
                     "hold": 23,
@@ -61475,7 +61535,7 @@
             },
             {
                 "level": "13",
-                "levelValue": 13.1,
+                "levelValue": 13.2,
                 "notes": {
                     "tap": 597,
                     "hold": 61,
@@ -66131,7 +66191,7 @@
             },
             {
                 "level": "13",
-                "levelValue": 13.1,
+                "levelValue": 13.2,
                 "notes": {
                     "tap": 390,
                     "hold": 42,
@@ -68871,7 +68931,7 @@
         "id": 11651,
         "name": "あなたは世界の終わりにずんだを食べるのだ",
         "type": "DX",
-        "rights": "©なみぐる, 2022 All Rights Reserved. ©VOICEVOX:ずんだもん",
+        "rights": "©なみぐる, 2022 All Rights Reserved. VOICEVOX:ずんだもん",
         "artist": "なみぐる",
         "genre": "niconicoボーカロイド",
         "bpm": "140",
@@ -68994,7 +69054,7 @@
         "rights": "©SARUKANI",
         "artist": "SARUKANI",
         "genre": "POPSアニメ",
-        "bpm": "100",
+        "bpm": "142",
         "version": "舞萌DX 2024",
         "charts": [
             {
@@ -69454,8 +69514,8 @@
                 "notesDesigner": "みそかつ侍"
             },
             {
-                "level": "13",
-                "levelValue": 13.1,
+                "level": "12+",
+                "levelValue": 12.9,
                 "notes": {
                     "tap": 496,
                     "hold": 61,
@@ -69706,8 +69766,8 @@
                 "notesDesigner": "ロシェ@ペンギン"
             },
             {
-                "level": "13",
-                "levelValue": 13.0,
+                "level": "12+",
+                "levelValue": 12.9,
                 "notes": {
                     "tap": 488,
                     "hold": 51,
@@ -69887,7 +69947,7 @@
             },
             {
                 "level": "12+",
-                "levelValue": 12.8,
+                "levelValue": 12.7,
                 "notes": {
                     "tap": 345,
                     "hold": 110,
@@ -70219,7 +70279,7 @@
                     "touch": 8,
                     "break": 7
                 },
-                "notesDesigner": ""
+                "notesDesigner": "-"
             },
             {
                 "level": "8",
@@ -70231,7 +70291,7 @@
                     "touch": 17,
                     "break": 4
                 },
-                "notesDesigner": ""
+                "notesDesigner": "-"
             },
             {
                 "level": "12+",
@@ -70247,7 +70307,7 @@
             },
             {
                 "level": "14+",
-                "levelValue": 14.7,
+                "levelValue": 14.6,
                 "notes": {
                     "tap": 670,
                     "hold": 32,
@@ -70547,7 +70607,7 @@
             },
             {
                 "level": "13+",
-                "levelValue": 13.8,
+                "levelValue": 13.9,
                 "notes": {
                     "tap": 714,
                     "hold": 55,
@@ -71458,8 +71518,8 @@
                 "notesDesigner": "ロシェ@ペンギン"
             },
             {
-                "level": "12+",
-                "levelValue": 12.9,
+                "level": "13",
+                "levelValue": 13.0,
                 "notes": {
                     "tap": 596,
                     "hold": 43,
@@ -71475,7 +71535,7 @@
         "id": 11694,
         "name": "強風オールバック",
         "type": "DX",
-        "rights": "©2023 EMP Inc. ©AHS Co. Ltd.",
+        "rights": "©ゆこぴ　©小津　©AHS Co. Ltd.",
         "artist": "ゆこぴ",
         "genre": "niconicoボーカロイド",
         "bpm": "135",
@@ -71535,7 +71595,7 @@
         "id": 11695,
         "name": "寝起きヤシの木",
         "type": "DX",
-        "rights": "©2023 EMP Inc. ©AHS Co. Ltd.",
+        "rights": "©ゆこぴ　©小津　©AHS Co. Ltd.",
         "artist": "ゆこぴ",
         "genre": "niconicoボーカロイド",
         "bpm": "160",
@@ -71611,7 +71671,7 @@
                     "touch": 9,
                     "break": 7
                 },
-                "notesDesigner": "-"
+                "notesDesigner": ""
             },
             {
                 "level": "6",
@@ -71623,7 +71683,7 @@
                     "touch": 17,
                     "break": 10
                 },
-                "notesDesigner": "-"
+                "notesDesigner": ""
             },
             {
                 "level": "9+",
@@ -71639,7 +71699,7 @@
             },
             {
                 "level": "11",
-                "levelValue": 11.4,
+                "levelValue": 11.5,
                 "notes": {
                     "tap": 425,
                     "hold": 44,
@@ -71855,7 +71915,7 @@
             },
             {
                 "level": "13+",
-                "levelValue": 13.7,
+                "levelValue": 13.6,
                 "notes": {
                     "tap": 896,
                     "hold": 24,
@@ -71975,7 +72035,7 @@
             },
             {
                 "level": "13",
-                "levelValue": 13.1,
+                "levelValue": 13.0,
                 "notes": {
                     "tap": 511,
                     "hold": 48,
@@ -72067,7 +72127,7 @@
                     "touch": 15,
                     "break": 5
                 },
-                "notesDesigner": ""
+                "notesDesigner": "-"
             },
             {
                 "level": "6",
@@ -72079,7 +72139,7 @@
                     "touch": 40,
                     "break": 5
                 },
-                "notesDesigner": ""
+                "notesDesigner": "-"
             },
             {
                 "level": "9+",
@@ -72095,7 +72155,7 @@
             },
             {
                 "level": "13+",
-                "levelValue": 13.7,
+                "levelValue": 13.6,
                 "notes": {
                     "tap": 596,
                     "hold": 43,
@@ -72127,7 +72187,7 @@
                     "touch": 8,
                     "break": 7
                 },
-                "notesDesigner": ""
+                "notesDesigner": "-"
             },
             {
                 "level": "7",
@@ -72139,7 +72199,7 @@
                     "touch": 23,
                     "break": 4
                 },
-                "notesDesigner": ""
+                "notesDesigner": "-"
             },
             {
                 "level": "10+",
@@ -72187,7 +72247,7 @@
                     "touch": 8,
                     "break": 8
                 },
-                "notesDesigner": ""
+                "notesDesigner": "-"
             },
             {
                 "level": "8",
@@ -72199,7 +72259,7 @@
                     "touch": 30,
                     "break": 4
                 },
-                "notesDesigner": ""
+                "notesDesigner": "-"
             },
             {
                 "level": "11",
@@ -72247,7 +72307,7 @@
                     "touch": 18,
                     "break": 8
                 },
-                "notesDesigner": ""
+                "notesDesigner": "-"
             },
             {
                 "level": "9",
@@ -72259,7 +72319,7 @@
                     "touch": 16,
                     "break": 6
                 },
-                "notesDesigner": ""
+                "notesDesigner": "-"
             },
             {
                 "level": "12",
@@ -72275,7 +72335,7 @@
             },
             {
                 "level": "14",
-                "levelValue": 14.4,
+                "levelValue": 14.5,
                 "notes": {
                     "tap": 917,
                     "hold": 82,
@@ -72307,7 +72367,7 @@
                     "touch": 7,
                     "break": 7
                 },
-                "notesDesigner": ""
+                "notesDesigner": "-"
             },
             {
                 "level": "6",
@@ -72319,7 +72379,7 @@
                     "touch": 26,
                     "break": 6
                 },
-                "notesDesigner": ""
+                "notesDesigner": "-"
             },
             {
                 "level": "10+",
@@ -72335,7 +72395,7 @@
             },
             {
                 "level": "13+",
-                "levelValue": 13.6,
+                "levelValue": 13.7,
                 "notes": {
                     "tap": 502,
                     "hold": 70,
@@ -72367,7 +72427,7 @@
                     "touch": 9,
                     "break": 4
                 },
-                "notesDesigner": ""
+                "notesDesigner": "-"
             },
             {
                 "level": "6",
@@ -72379,7 +72439,7 @@
                     "touch": 34,
                     "break": 2
                 },
-                "notesDesigner": ""
+                "notesDesigner": "-"
             },
             {
                 "level": "9+",
@@ -72427,7 +72487,7 @@
                     "touch": 5,
                     "break": 3
                 },
-                "notesDesigner": ""
+                "notesDesigner": "-"
             },
             {
                 "level": "6",
@@ -72439,7 +72499,7 @@
                     "touch": 15,
                     "break": 4
                 },
-                "notesDesigner": ""
+                "notesDesigner": "-"
             },
             {
                 "level": "10+",
@@ -72635,7 +72695,7 @@
             },
             {
                 "level": "13",
-                "levelValue": 13.2,
+                "levelValue": 13.1,
                 "notes": {
                     "tap": 658,
                     "hold": 52,
@@ -72695,7 +72755,7 @@
             },
             {
                 "level": "13+",
-                "levelValue": 13.7,
+                "levelValue": 13.6,
                 "notes": {
                     "tap": 586,
                     "hold": 105,
@@ -72755,7 +72815,7 @@
             },
             {
                 "level": "12+",
-                "levelValue": 12.7,
+                "levelValue": 12.6,
                 "notes": {
                     "tap": 362,
                     "hold": 61,
@@ -72815,7 +72875,7 @@
             },
             {
                 "level": "13",
-                "levelValue": 13.1,
+                "levelValue": 13.3,
                 "notes": {
                     "tap": 360,
                     "hold": 67,
@@ -72875,7 +72935,7 @@
             },
             {
                 "level": "14+",
-                "levelValue": 14.6,
+                "levelValue": 14.7,
                 "notes": {
                     "tap": 983,
                     "hold": 76,
@@ -73114,8 +73174,8 @@
                 "notesDesigner": "鳩ホルダー"
             },
             {
-                "level": "13",
-                "levelValue": 13.5,
+                "level": "13+",
+                "levelValue": 13.6,
                 "notes": {
                     "tap": 644,
                     "hold": 55,
@@ -73267,7 +73327,7 @@
                     "touch": 9,
                     "break": 5
                 },
-                "notesDesigner": "-"
+                "notesDesigner": ""
             },
             {
                 "level": "7",
@@ -73279,7 +73339,7 @@
                     "touch": 16,
                     "break": 10
                 },
-                "notesDesigner": "-"
+                "notesDesigner": ""
             },
             {
                 "level": "10+",
@@ -73327,7 +73387,7 @@
                     "touch": 8,
                     "break": 2
                 },
-                "notesDesigner": "-"
+                "notesDesigner": ""
             },
             {
                 "level": "7+",
@@ -73339,7 +73399,7 @@
                     "touch": 28,
                     "break": 6
                 },
-                "notesDesigner": "-"
+                "notesDesigner": ""
             },
             {
                 "level": "11",
@@ -73387,7 +73447,7 @@
                     "touch": 11,
                     "break": 2
                 },
-                "notesDesigner": "-"
+                "notesDesigner": ""
             },
             {
                 "level": "7",
@@ -73399,7 +73459,7 @@
                     "touch": 28,
                     "break": 2
                 },
-                "notesDesigner": "-"
+                "notesDesigner": ""
             },
             {
                 "level": "10+",
@@ -73447,7 +73507,7 @@
                     "touch": 26,
                     "break": 6
                 },
-                "notesDesigner": "-"
+                "notesDesigner": ""
             },
             {
                 "level": "7+",
@@ -73459,7 +73519,7 @@
                     "touch": 50,
                     "break": 2
                 },
-                "notesDesigner": "-"
+                "notesDesigner": ""
             },
             {
                 "level": "10+",
@@ -73507,7 +73567,7 @@
                     "touch": 22,
                     "break": 4
                 },
-                "notesDesigner": "-"
+                "notesDesigner": ""
             },
             {
                 "level": "7",
@@ -73519,7 +73579,7 @@
                     "touch": 21,
                     "break": 2
                 },
-                "notesDesigner": "-"
+                "notesDesigner": ""
             },
             {
                 "level": "10",
@@ -73594,8 +73654,8 @@
                 "notesDesigner": "鳩ホルダー"
             },
             {
-                "level": "13",
-                "levelValue": 13.5,
+                "level": "13+",
+                "levelValue": 13.7,
                 "notes": {
                     "tap": 720,
                     "hold": 20,
@@ -73627,7 +73687,7 @@
                     "touch": 13,
                     "break": 1
                 },
-                "notesDesigner": "-"
+                "notesDesigner": ""
             },
             {
                 "level": "7",
@@ -73639,7 +73699,7 @@
                     "touch": 13,
                     "break": 4
                 },
-                "notesDesigner": "-"
+                "notesDesigner": ""
             },
             {
                 "level": "11",
@@ -73687,7 +73747,7 @@
                     "touch": 4,
                     "break": 6
                 },
-                "notesDesigner": "-"
+                "notesDesigner": ""
             },
             {
                 "level": "6",
@@ -73699,7 +73759,7 @@
                     "touch": 30,
                     "break": 10
                 },
-                "notesDesigner": "-"
+                "notesDesigner": ""
             },
             {
                 "level": "9+",
@@ -73715,7 +73775,7 @@
             },
             {
                 "level": "12+",
-                "levelValue": 12.9,
+                "levelValue": 12.7,
                 "notes": {
                     "tap": 442,
                     "hold": 68,
@@ -74947,7 +75007,7 @@
                     "touch": 8,
                     "break": 9
                 },
-                "notesDesigner": "-"
+                "notesDesigner": ""
             },
             {
                 "level": "7+",
@@ -74959,7 +75019,7 @@
                     "touch": 24,
                     "break": 2
                 },
-                "notesDesigner": "-"
+                "notesDesigner": ""
             },
             {
                 "level": "11",
@@ -77808,6 +77868,1302 @@
         ]
     },
     {
+        "id": 11806,
+        "name": "Fraq",
+        "type": "DX",
+        "rights": "",
+        "artist": "owl＊tree feat. べんざ",
+        "genre": "maimai",
+        "bpm": "221",
+        "version": "舞萌DX 2026",
+        "charts": [
+            {
+                "level": "5",
+                "levelValue": 5.0,
+                "notes": {
+                    "tap": 171,
+                    "hold": 19,
+                    "slide": 6,
+                    "touch": 24,
+                    "break": 9
+                },
+                "notesDesigner": ""
+            },
+            {
+                "level": "8",
+                "levelValue": 8.5,
+                "notes": {
+                    "tap": 358,
+                    "hold": 26,
+                    "slide": 8,
+                    "touch": 28,
+                    "break": 7
+                },
+                "notesDesigner": ""
+            },
+            {
+                "level": "12",
+                "levelValue": 12.2,
+                "notes": {
+                    "tap": 466,
+                    "hold": 90,
+                    "slide": 31,
+                    "touch": 55,
+                    "break": 35
+                },
+                "notesDesigner": "サファ太"
+            },
+            {
+                "level": "13+",
+                "levelValue": 13.7,
+                "notes": {
+                    "tap": 521,
+                    "hold": 83,
+                    "slide": 110,
+                    "touch": 26,
+                    "break": 66
+                },
+                "notesDesigner": "Luxizhel"
+            }
+        ]
+    },
+    {
+        "id": 11807,
+        "name": "ウタヒメナイトストーム",
+        "type": "DX",
+        "rights": "",
+        "artist": "yowanecity feat.Eye",
+        "genre": "maimai",
+        "bpm": "164",
+        "version": "舞萌DX 2026",
+        "charts": [
+            {
+                "level": "4",
+                "levelValue": 4.0,
+                "notes": {
+                    "tap": 157,
+                    "hold": 18,
+                    "slide": 4,
+                    "touch": 8,
+                    "break": 3
+                },
+                "notesDesigner": ""
+            },
+            {
+                "level": "7",
+                "levelValue": 7.0,
+                "notes": {
+                    "tap": 260,
+                    "hold": 12,
+                    "slide": 12,
+                    "touch": 26,
+                    "break": 3
+                },
+                "notesDesigner": ""
+            },
+            {
+                "level": "11",
+                "levelValue": 11.5,
+                "notes": {
+                    "tap": 406,
+                    "hold": 46,
+                    "slide": 55,
+                    "touch": 16,
+                    "break": 29
+                },
+                "notesDesigner": "Jack"
+            },
+            {
+                "level": "13+",
+                "levelValue": 13.8,
+                "notes": {
+                    "tap": 631,
+                    "hold": 43,
+                    "slide": 142,
+                    "touch": 14,
+                    "break": 26
+                },
+                "notesDesigner": "はっぴー"
+            }
+        ]
+    },
+    {
+        "id": 11808,
+        "name": "Feel The Luv",
+        "type": "DX",
+        "rights": "",
+        "artist": "EmoCosine",
+        "genre": "maimai",
+        "bpm": "155",
+        "version": "舞萌DX 2026",
+        "charts": [
+            {
+                "level": "4",
+                "levelValue": 4.0,
+                "notes": {
+                    "tap": 170,
+                    "hold": 9,
+                    "slide": 8,
+                    "touch": 14,
+                    "break": 10
+                },
+                "notesDesigner": ""
+            },
+            {
+                "level": "7+",
+                "levelValue": 7.7,
+                "notes": {
+                    "tap": 300,
+                    "hold": 18,
+                    "slide": 4,
+                    "touch": 26,
+                    "break": 4
+                },
+                "notesDesigner": ""
+            },
+            {
+                "level": "11",
+                "levelValue": 11.2,
+                "notes": {
+                    "tap": 413,
+                    "hold": 86,
+                    "slide": 48,
+                    "touch": 11,
+                    "break": 36
+                },
+                "notesDesigner": "サファ太"
+            },
+            {
+                "level": "13+",
+                "levelValue": 13.8,
+                "notes": {
+                    "tap": 611,
+                    "hold": 42,
+                    "slide": 90,
+                    "touch": 127,
+                    "break": 57
+                },
+                "notesDesigner": "アマリリス"
+            }
+        ]
+    },
+    {
+        "id": 11809,
+        "name": "Åntinomiε",
+        "type": "DX",
+        "rights": "",
+        "artist": "ああ…翡翠茶漬け…",
+        "genre": "maimai",
+        "bpm": "242",
+        "version": "舞萌DX 2026",
+        "charts": [
+            {
+                "level": "6",
+                "levelValue": 6.0,
+                "notes": {
+                    "tap": 254,
+                    "hold": 18,
+                    "slide": 8,
+                    "touch": 26,
+                    "break": 2
+                },
+                "notesDesigner": ""
+            },
+            {
+                "level": "9",
+                "levelValue": 9.5,
+                "notes": {
+                    "tap": 433,
+                    "hold": 21,
+                    "slide": 14,
+                    "touch": 24,
+                    "break": 2
+                },
+                "notesDesigner": ""
+            },
+            {
+                "level": "12+",
+                "levelValue": 12.8,
+                "notes": {
+                    "tap": 471,
+                    "hold": 87,
+                    "slide": 58,
+                    "touch": 19,
+                    "break": 53
+                },
+                "notesDesigner": "サファ太"
+            },
+            {
+                "level": "14+",
+                "levelValue": 14.6,
+                "notes": {
+                    "tap": 631,
+                    "hold": 98,
+                    "slide": 114,
+                    "touch": 72,
+                    "break": 124
+                },
+                "notesDesigner": "SAFARi☆CAT"
+            }
+        ]
+    },
+    {
+        "id": 11810,
+        "name": "ATLAS RUSH",
+        "type": "DX",
+        "rights": "",
+        "artist": "kanone",
+        "genre": "maimai",
+        "bpm": "156",
+        "version": "舞萌DX 2026",
+        "charts": [
+            {
+                "level": "5",
+                "levelValue": 5.0,
+                "notes": {
+                    "tap": 193,
+                    "hold": 13,
+                    "slide": 6,
+                    "touch": 14,
+                    "break": 10
+                },
+                "notesDesigner": ""
+            },
+            {
+                "level": "7+",
+                "levelValue": 7.8,
+                "notes": {
+                    "tap": 304,
+                    "hold": 23,
+                    "slide": 7,
+                    "touch": 21,
+                    "break": 13
+                },
+                "notesDesigner": ""
+            },
+            {
+                "level": "12+",
+                "levelValue": 12.6,
+                "notes": {
+                    "tap": 403,
+                    "hold": 61,
+                    "slide": 48,
+                    "touch": 21,
+                    "break": 59
+                },
+                "notesDesigner": "サファ太"
+            },
+            {
+                "level": "14+",
+                "levelValue": 14.7,
+                "notes": {
+                    "tap": 763,
+                    "hold": 42,
+                    "slide": 103,
+                    "touch": 28,
+                    "break": 109
+                },
+                "notesDesigner": "BELiZHEL"
+            }
+        ]
+    },
+    {
+        "id": 11822,
+        "name": "Supersonic Generation",
+        "type": "DX",
+        "rights": "",
+        "artist": "Massive New Krew",
+        "genre": "オンゲキCHUNITHM",
+        "bpm": "155",
+        "version": "舞萌DX 2026",
+        "charts": [
+            {
+                "level": "4",
+                "levelValue": 4.0,
+                "notes": {
+                    "tap": 140,
+                    "hold": 11,
+                    "slide": 4,
+                    "touch": 6,
+                    "break": 10
+                },
+                "notesDesigner": ""
+            },
+            {
+                "level": "8",
+                "levelValue": 8.0,
+                "notes": {
+                    "tap": 251,
+                    "hold": 22,
+                    "slide": 7,
+                    "touch": 28,
+                    "break": 3
+                },
+                "notesDesigner": ""
+            },
+            {
+                "level": "11+",
+                "levelValue": 11.7,
+                "notes": {
+                    "tap": 341,
+                    "hold": 59,
+                    "slide": 32,
+                    "touch": 31,
+                    "break": 40
+                },
+                "notesDesigner": "鳩ホルダー"
+            },
+            {
+                "level": "13+",
+                "levelValue": 13.9,
+                "notes": {
+                    "tap": 567,
+                    "hold": 12,
+                    "slide": 91,
+                    "touch": 70,
+                    "break": 75
+                },
+                "notesDesigner": "Luxizhel"
+            }
+        ]
+    },
+    {
+        "id": 11823,
+        "name": "Zitronectar",
+        "type": "DX",
+        "rights": "",
+        "artist": "Reku Mochizuki",
+        "genre": "オンゲキCHUNITHM",
+        "bpm": "222",
+        "version": "舞萌DX 2026",
+        "charts": [
+            {
+                "level": "5",
+                "levelValue": 5.0,
+                "notes": {
+                    "tap": 168,
+                    "hold": 8,
+                    "slide": 8,
+                    "touch": 9,
+                    "break": 5
+                },
+                "notesDesigner": ""
+            },
+            {
+                "level": "8+",
+                "levelValue": 8.7,
+                "notes": {
+                    "tap": 300,
+                    "hold": 14,
+                    "slide": 6,
+                    "touch": 16,
+                    "break": 4
+                },
+                "notesDesigner": ""
+            },
+            {
+                "level": "12",
+                "levelValue": 12.0,
+                "notes": {
+                    "tap": 357,
+                    "hold": 64,
+                    "slide": 55,
+                    "touch": 31,
+                    "break": 39
+                },
+                "notesDesigner": "ロシェ@ペンギン"
+            },
+            {
+                "level": "14",
+                "levelValue": 14.3,
+                "notes": {
+                    "tap": 469,
+                    "hold": 51,
+                    "slide": 106,
+                    "touch": 29,
+                    "break": 87
+                },
+                "notesDesigner": "サファ太"
+            }
+        ]
+    },
+    {
+        "id": 11831,
+        "name": "きゅびずむ",
+        "type": "DX",
+        "rights": "©WSS playground",
+        "artist": "超てんちゃん",
+        "genre": "POPSアニメ",
+        "bpm": "185",
+        "version": "舞萌DX 2026",
+        "charts": [
+            {
+                "level": "3",
+                "levelValue": 3.0,
+                "notes": {
+                    "tap": 134,
+                    "hold": 14,
+                    "slide": 4,
+                    "touch": 12,
+                    "break": 8
+                },
+                "notesDesigner": ""
+            },
+            {
+                "level": "7",
+                "levelValue": 7.0,
+                "notes": {
+                    "tap": 308,
+                    "hold": 18,
+                    "slide": 9,
+                    "touch": 29,
+                    "break": 5
+                },
+                "notesDesigner": ""
+            },
+            {
+                "level": "10",
+                "levelValue": 10.0,
+                "notes": {
+                    "tap": 315,
+                    "hold": 53,
+                    "slide": 33,
+                    "touch": 19,
+                    "break": 49
+                },
+                "notesDesigner": "鳩ホルダー"
+            },
+            {
+                "level": "12+",
+                "levelValue": 12.9,
+                "notes": {
+                    "tap": 445,
+                    "hold": 68,
+                    "slide": 87,
+                    "touch": 65,
+                    "break": 73
+                },
+                "notesDesigner": "サファ太"
+            }
+        ]
+    },
+    {
+        "id": 11832,
+        "name": "きゅびびびびずむ",
+        "type": "DX",
+        "rights": "©WSS playground",
+        "artist": "超てんちゃん",
+        "genre": "POPSアニメ",
+        "bpm": "185",
+        "version": "舞萌DX 2026",
+        "charts": [
+            {
+                "level": "5",
+                "levelValue": 5.0,
+                "notes": {
+                    "tap": 221,
+                    "hold": 15,
+                    "slide": 15,
+                    "touch": 13,
+                    "break": 14
+                },
+                "notesDesigner": ""
+            },
+            {
+                "level": "8",
+                "levelValue": 8.0,
+                "notes": {
+                    "tap": 404,
+                    "hold": 18,
+                    "slide": 13,
+                    "touch": 14,
+                    "break": 14
+                },
+                "notesDesigner": ""
+            },
+            {
+                "level": "12",
+                "levelValue": 12.0,
+                "notes": {
+                    "tap": 323,
+                    "hold": 129,
+                    "slide": 41,
+                    "touch": 49,
+                    "break": 124
+                },
+                "notesDesigner": "はっぴー"
+            },
+            {
+                "level": "13+",
+                "levelValue": 13.8,
+                "notes": {
+                    "tap": 424,
+                    "hold": 98,
+                    "slide": 103,
+                    "touch": 121,
+                    "break": 248
+                },
+                "notesDesigner": "サぴぴぴぴちネファ太太太太コ"
+            }
+        ]
+    },
+    {
+        "id": 11833,
+        "name": "ゆりかご",
+        "type": "DX",
+        "rights": "© 2023 THINKR inc.",
+        "artist": "歌：可不／作詞・作曲：MIMI",
+        "genre": "niconicoボーカロイド",
+        "bpm": "120",
+        "version": "舞萌DX 2026",
+        "charts": [
+            {
+                "level": "2",
+                "levelValue": 2.0,
+                "notes": {
+                    "tap": 86,
+                    "hold": 9,
+                    "slide": 6,
+                    "touch": 13,
+                    "break": 2
+                },
+                "notesDesigner": ""
+            },
+            {
+                "level": "6",
+                "levelValue": 6.0,
+                "notes": {
+                    "tap": 153,
+                    "hold": 21,
+                    "slide": 8,
+                    "touch": 28,
+                    "break": 5
+                },
+                "notesDesigner": ""
+            },
+            {
+                "level": "9",
+                "levelValue": 9.0,
+                "notes": {
+                    "tap": 255,
+                    "hold": 34,
+                    "slide": 20,
+                    "touch": 24,
+                    "break": 10
+                },
+                "notesDesigner": "Luxizhel"
+            },
+            {
+                "level": "13",
+                "levelValue": 13.0,
+                "notes": {
+                    "tap": 457,
+                    "hold": 38,
+                    "slide": 88,
+                    "touch": 58,
+                    "break": 13
+                },
+                "notesDesigner": "鳩ホルダー"
+            }
+        ]
+    },
+    {
+        "id": 11834,
+        "name": "月光",
+        "type": "DX",
+        "rights": "© 2024 THINKR inc.",
+        "artist": "歌：V.I.P／作詞・作曲：廉",
+        "genre": "niconicoボーカロイド",
+        "bpm": "195",
+        "version": "舞萌DX 2026",
+        "charts": [
+            {
+                "level": "4",
+                "levelValue": 4.0,
+                "notes": {
+                    "tap": 176,
+                    "hold": 16,
+                    "slide": 6,
+                    "touch": 8,
+                    "break": 5
+                },
+                "notesDesigner": ""
+            },
+            {
+                "level": "8",
+                "levelValue": 8.0,
+                "notes": {
+                    "tap": 350,
+                    "hold": 16,
+                    "slide": 5,
+                    "touch": 24,
+                    "break": 3
+                },
+                "notesDesigner": ""
+            },
+            {
+                "level": "11",
+                "levelValue": 11.2,
+                "notes": {
+                    "tap": 514,
+                    "hold": 44,
+                    "slide": 44,
+                    "touch": 12,
+                    "break": 27
+                },
+                "notesDesigner": "アマリリス"
+            },
+            {
+                "level": "13+",
+                "levelValue": 13.7,
+                "notes": {
+                    "tap": 550,
+                    "hold": 54,
+                    "slide": 137,
+                    "touch": 10,
+                    "break": 69
+                },
+                "notesDesigner": "ロシェ@ペンギン"
+            }
+        ]
+    },
+    {
+        "id": 11835,
+        "name": "はいよろこんで",
+        "type": "DX",
+        "rights": "©blowout Inc.",
+        "artist": "こっちのけんと",
+        "genre": "POPSアニメ",
+        "bpm": "147",
+        "version": "舞萌DX 2026",
+        "charts": [
+            {
+                "level": "3",
+                "levelValue": 3.0,
+                "notes": {
+                    "tap": 155,
+                    "hold": 17,
+                    "slide": 4,
+                    "touch": 9,
+                    "break": 8
+                },
+                "notesDesigner": ""
+            },
+            {
+                "level": "6",
+                "levelValue": 6.5,
+                "notes": {
+                    "tap": 305,
+                    "hold": 20,
+                    "slide": 6,
+                    "touch": 13,
+                    "break": 2
+                },
+                "notesDesigner": ""
+            },
+            {
+                "level": "9+",
+                "levelValue": 9.8,
+                "notes": {
+                    "tap": 357,
+                    "hold": 37,
+                    "slide": 56,
+                    "touch": 34,
+                    "break": 22
+                },
+                "notesDesigner": "鳩ホルダー"
+            },
+            {
+                "level": "11+",
+                "levelValue": 11.6,
+                "notes": {
+                    "tap": 401,
+                    "hold": 81,
+                    "slide": 105,
+                    "touch": 16,
+                    "break": 46
+                },
+                "notesDesigner": "緑風 犬三郎"
+            },
+            {
+                "level": "13",
+                "levelValue": 13.2,
+                "notes": {
+                    "tap": 588,
+                    "hold": 78,
+                    "slide": 95,
+                    "touch": 37,
+                    "break": 40
+                },
+                "notesDesigner": "Jack"
+            }
+        ]
+    },
+    {
+        "id": 11836,
+        "name": "ビビデバ",
+        "type": "DX",
+        "rights": "© 2016 COVER Corp.",
+        "artist": "星街すいせい（ホロライブ）",
+        "genre": "POPSアニメ",
+        "bpm": "120",
+        "version": "舞萌DX 2026",
+        "charts": [
+            {
+                "level": "2",
+                "levelValue": 2.0,
+                "notes": {
+                    "tap": 143,
+                    "hold": 13,
+                    "slide": 6,
+                    "touch": 7,
+                    "break": 4
+                },
+                "notesDesigner": ""
+            },
+            {
+                "level": "6",
+                "levelValue": 6.4,
+                "notes": {
+                    "tap": 277,
+                    "hold": 14,
+                    "slide": 7,
+                    "touch": 13,
+                    "break": 5
+                },
+                "notesDesigner": ""
+            },
+            {
+                "level": "9+",
+                "levelValue": 9.7,
+                "notes": {
+                    "tap": 312,
+                    "hold": 89,
+                    "slide": 32,
+                    "touch": 15,
+                    "break": 32
+                },
+                "notesDesigner": "サファ太"
+            },
+            {
+                "level": "11+",
+                "levelValue": 11.8,
+                "notes": {
+                    "tap": 500,
+                    "hold": 66,
+                    "slide": 82,
+                    "touch": 5,
+                    "break": 15
+                },
+                "notesDesigner": "緑風 犬三郎"
+            },
+            {
+                "level": "13",
+                "levelValue": 13.2,
+                "notes": {
+                    "tap": 616,
+                    "hold": 40,
+                    "slide": 107,
+                    "touch": 44,
+                    "break": 18
+                },
+                "notesDesigner": "シチミヘルツ"
+            }
+        ]
+    },
+    {
+        "id": 11837,
+        "name": "シカ色デイズ",
+        "type": "DX",
+        "rights": "©おしおしお・講談社／日野南高校シカ部",
+        "artist": "シカ部 [鹿乃子のこ (CV.潘めぐみ)、虎視虎子 (CV.藤田 咲)、虎視餡子 (CV.田辺留依)、馬車芽めめ (CV.和泉風花)]",
+        "genre": "POPSアニメ",
+        "bpm": "183",
+        "version": "舞萌DX 2026",
+        "charts": [
+            {
+                "level": "3",
+                "levelValue": 3.0,
+                "notes": {
+                    "tap": 99,
+                    "hold": 7,
+                    "slide": 4,
+                    "touch": 6,
+                    "break": 6
+                },
+                "notesDesigner": ""
+            },
+            {
+                "level": "7",
+                "levelValue": 7.0,
+                "notes": {
+                    "tap": 182,
+                    "hold": 12,
+                    "slide": 4,
+                    "touch": 28,
+                    "break": 4
+                },
+                "notesDesigner": ""
+            },
+            {
+                "level": "9+",
+                "levelValue": 9.8,
+                "notes": {
+                    "tap": 281,
+                    "hold": 34,
+                    "slide": 22,
+                    "touch": 31,
+                    "break": 20
+                },
+                "notesDesigner": "鳩ホルダー"
+            },
+            {
+                "level": "12+",
+                "levelValue": 12.8,
+                "notes": {
+                    "tap": 275,
+                    "hold": 24,
+                    "slide": 113,
+                    "touch": 52,
+                    "break": 31
+                },
+                "notesDesigner": "はっぴー"
+            }
+        ]
+    },
+    {
+        "id": 11838,
+        "name": "メズマライザー",
+        "type": "DX",
+        "rights": "©32ki_May © Crypton Future Media, INC. www.piapro.net (+piapro logo) 重音テト©線/小山乃舞世/TWINDRILL",
+        "artist": "サツキ feat.初音ミク・重音テト",
+        "genre": "niconicoボーカロイド",
+        "bpm": "185",
+        "version": "舞萌DX 2026",
+        "charts": [
+            {
+                "level": "3",
+                "levelValue": 3.0,
+                "notes": {
+                    "tap": 175,
+                    "hold": 22,
+                    "slide": 7,
+                    "touch": 6,
+                    "break": 7
+                },
+                "notesDesigner": ""
+            },
+            {
+                "level": "7",
+                "levelValue": 7.2,
+                "notes": {
+                    "tap": 357,
+                    "hold": 22,
+                    "slide": 13,
+                    "touch": 15,
+                    "break": 5
+                },
+                "notesDesigner": ""
+            },
+            {
+                "level": "10",
+                "levelValue": 10.5,
+                "notes": {
+                    "tap": 379,
+                    "hold": 44,
+                    "slide": 56,
+                    "touch": 29,
+                    "break": 16
+                },
+                "notesDesigner": "ロシェ@ペンギン"
+            },
+            {
+                "level": "11+",
+                "levelValue": 11.9,
+                "notes": {
+                    "tap": 428,
+                    "hold": 70,
+                    "slide": 127,
+                    "touch": 40,
+                    "break": 10
+                },
+                "notesDesigner": "緑風 犬三郎"
+            },
+            {
+                "level": "13+",
+                "levelValue": 13.8,
+                "notes": {
+                    "tap": 613,
+                    "hold": 38,
+                    "slide": 83,
+                    "touch": 111,
+                    "break": 155
+                },
+                "notesDesigner": "サファ太"
+            }
+        ]
+    },
+    {
+        "id": 11839,
+        "name": "ももいろの鍵",
+        "type": "DX",
+        "rights": "©Iyowa",
+        "artist": "いよわ",
+        "genre": "niconicoボーカロイド",
+        "bpm": "165",
+        "version": "舞萌DX 2026",
+        "charts": [
+            {
+                "level": "2",
+                "levelValue": 2.0,
+                "notes": {
+                    "tap": 135,
+                    "hold": 10,
+                    "slide": 4,
+                    "touch": 17,
+                    "break": 8
+                },
+                "notesDesigner": ""
+            },
+            {
+                "level": "6",
+                "levelValue": 6.5,
+                "notes": {
+                    "tap": 258,
+                    "hold": 14,
+                    "slide": 11,
+                    "touch": 28,
+                    "break": 3
+                },
+                "notesDesigner": ""
+            },
+            {
+                "level": "9",
+                "levelValue": 9.0,
+                "notes": {
+                    "tap": 305,
+                    "hold": 45,
+                    "slide": 22,
+                    "touch": 13,
+                    "break": 11
+                },
+                "notesDesigner": "はっぴー"
+            },
+            {
+                "level": "12+",
+                "levelValue": 12.7,
+                "notes": {
+                    "tap": 395,
+                    "hold": 90,
+                    "slide": 89,
+                    "touch": 36,
+                    "break": 30
+                },
+                "notesDesigner": "アマリリス"
+            }
+        ]
+    },
+    {
+        "id": 11840,
+        "name": "のだ",
+        "type": "DX",
+        "rights": "©2023 DWANGO CO., Ltd. © Crypton Future Media, INC. www.piapro.net (+piapro logo) 重音テト©線/小山乃舞世/TWINDRILL ©sss VOICEVOX:ずんだもん",
+        "artist": "大漠波新",
+        "genre": "niconicoボーカロイド",
+        "bpm": "142",
+        "version": "舞萌DX 2026",
+        "charts": [
+            {
+                "level": "3",
+                "levelValue": 3.0,
+                "notes": {
+                    "tap": 158,
+                    "hold": 15,
+                    "slide": 4,
+                    "touch": 8,
+                    "break": 6
+                },
+                "notesDesigner": ""
+            },
+            {
+                "level": "6",
+                "levelValue": 6.2,
+                "notes": {
+                    "tap": 240,
+                    "hold": 13,
+                    "slide": 15,
+                    "touch": 26,
+                    "break": 6
+                },
+                "notesDesigner": ""
+            },
+            {
+                "level": "9+",
+                "levelValue": 9.8,
+                "notes": {
+                    "tap": 273,
+                    "hold": 62,
+                    "slide": 41,
+                    "touch": 11,
+                    "break": 56
+                },
+                "notesDesigner": "サファ太"
+            },
+            {
+                "level": "13",
+                "levelValue": 13.3,
+                "notes": {
+                    "tap": 526,
+                    "hold": 34,
+                    "slide": 141,
+                    "touch": 74,
+                    "break": 55
+                },
+                "notesDesigner": "Luxizhel & はっぴー"
+            }
+        ]
+    },
+    {
+        "id": 11841,
+        "name": "Idoratrize World",
+        "type": "DX",
+        "rights": "©A-One ©上海アリス幻樂団",
+        "artist": "A-One",
+        "genre": "東方Project",
+        "bpm": "170",
+        "version": "舞萌DX 2026",
+        "charts": [
+            {
+                "level": "3",
+                "levelValue": 3.0,
+                "notes": {
+                    "tap": 149,
+                    "hold": 11,
+                    "slide": 4,
+                    "touch": 7,
+                    "break": 8
+                },
+                "notesDesigner": ""
+            },
+            {
+                "level": "6+",
+                "levelValue": 6.8,
+                "notes": {
+                    "tap": 282,
+                    "hold": 16,
+                    "slide": 14,
+                    "touch": 28,
+                    "break": 2
+                },
+                "notesDesigner": ""
+            },
+            {
+                "level": "10",
+                "levelValue": 10.5,
+                "notes": {
+                    "tap": 354,
+                    "hold": 51,
+                    "slide": 56,
+                    "touch": 27,
+                    "break": 37
+                },
+                "notesDesigner": "Luxizhel"
+            },
+            {
+                "level": "13",
+                "levelValue": 13.3,
+                "notes": {
+                    "tap": 487,
+                    "hold": 51,
+                    "slide": 130,
+                    "touch": 41,
+                    "break": 52
+                },
+                "notesDesigner": "鳩ホルダー"
+            }
+        ]
+    },
+    {
+        "id": 11842,
+        "name": "Synthesis.",
+        "type": "DX",
+        "rights": "",
+        "artist": "tn-shi",
+        "genre": "ゲームバラエティ",
+        "bpm": "180",
+        "version": "舞萌DX 2026",
+        "charts": [
+            {
+                "level": "5",
+                "levelValue": 5.0,
+                "notes": {
+                    "tap": 218,
+                    "hold": 18,
+                    "slide": 10,
+                    "touch": 22,
+                    "break": 5
+                },
+                "notesDesigner": ""
+            },
+            {
+                "level": "8+",
+                "levelValue": 8.8,
+                "notes": {
+                    "tap": 417,
+                    "hold": 16,
+                    "slide": 12,
+                    "touch": 29,
+                    "break": 3
+                },
+                "notesDesigner": ""
+            },
+            {
+                "level": "12+",
+                "levelValue": 12.6,
+                "notes": {
+                    "tap": 400,
+                    "hold": 128,
+                    "slide": 65,
+                    "touch": 32,
+                    "break": 20
+                },
+                "notesDesigner": "Jack"
+            },
+            {
+                "level": "14",
+                "levelValue": 14.1,
+                "notes": {
+                    "tap": 738,
+                    "hold": 84,
+                    "slide": 72,
+                    "touch": 127,
+                    "break": 82
+                },
+                "notesDesigner": "サファ太"
+            }
+        ]
+    },
+    {
+        "id": 11843,
+        "name": "もういいよ",
+        "type": "DX",
+        "rights": "©blowout Inc.",
+        "artist": "こっちのけんと",
+        "genre": "POPSアニメ",
+        "bpm": "147",
+        "version": "舞萌DX 2026",
+        "charts": [
+            {
+                "level": "2",
+                "levelValue": 2.0,
+                "notes": {
+                    "tap": 124,
+                    "hold": 15,
+                    "slide": 4,
+                    "touch": 13,
+                    "break": 8
+                },
+                "notesDesigner": ""
+            },
+            {
+                "level": "6",
+                "levelValue": 6.0,
+                "notes": {
+                    "tap": 265,
+                    "hold": 18,
+                    "slide": 6,
+                    "touch": 22,
+                    "break": 5
+                },
+                "notesDesigner": ""
+            },
+            {
+                "level": "9+",
+                "levelValue": 9.8,
+                "notes": {
+                    "tap": 358,
+                    "hold": 119,
+                    "slide": 38,
+                    "touch": 16,
+                    "break": 15
+                },
+                "notesDesigner": "はっぴー"
+            },
+            {
+                "level": "13",
+                "levelValue": 13.1,
+                "notes": {
+                    "tap": 526,
+                    "hold": 65,
+                    "slide": 107,
+                    "touch": 70,
+                    "break": 38
+                },
+                "notesDesigner": "鳩ホルダー"
+            }
+        ]
+    },
+    {
+        "id": 11844,
+        "name": "モエチャッカファイア",
+        "type": "DX",
+        "rights": "Licensed by VAP INC． ©VAP INC. animation: ハツミノ",
+        "artist": "弌誠「ゲーム『ゼンレスゾーンゼロ』エレン・ジョー 同人イメージソング」",
+        "genre": "POPSアニメ",
+        "bpm": "163",
+        "version": "舞萌DX 2026",
+        "charts": [
+            {
+                "level": "3",
+                "levelValue": 3.0,
+                "notes": {
+                    "tap": 164,
+                    "hold": 11,
+                    "slide": 6,
+                    "touch": 6,
+                    "break": 11
+                },
+                "notesDesigner": ""
+            },
+            {
+                "level": "6+",
+                "levelValue": 6.7,
+                "notes": {
+                    "tap": 267,
+                    "hold": 17,
+                    "slide": 16,
+                    "touch": 26,
+                    "break": 6
+                },
+                "notesDesigner": ""
+            },
+            {
+                "level": "10",
+                "levelValue": 10.5,
+                "notes": {
+                    "tap": 393,
+                    "hold": 22,
+                    "slide": 45,
+                    "touch": 29,
+                    "break": 36
+                },
+                "notesDesigner": "Luxizhel"
+            },
+            {
+                "level": "13+",
+                "levelValue": 13.8,
+                "notes": {
+                    "tap": 675,
+                    "hold": 54,
+                    "slide": 131,
+                    "touch": 70,
+                    "break": 54
+                },
+                "notesDesigner": "サファ太"
+            }
+        ]
+    },
+    {
         "id": 11919,
         "name": "エンジェル ドリーム",
         "type": "DX",
@@ -78276,30 +79632,6 @@
         ]
     },
     {
-        "id": 100259,
-        "name": "[協]ぽっぴっぽー",
-        "type": "SD",
-        "rights": "",
-        "artist": " ",
-        "genre": "宴会場",
-        "bpm": "150",
-        "version": "舞萌DX 2024",
-        "charts": [
-            {
-                "level": "13+?",
-                "levelValue": 13.7,
-                "notes": {
-                    "tap": 659,
-                    "hold": 141,
-                    "slide": 56,
-                    "touch": 0,
-                    "break": 12
-                },
-                "notesDesigner": ""
-            }
-        ]
-    },
-    {
         "id": 100327,
         "name": "[狂]タカハせ！名人マン",
         "type": "SD",
@@ -78540,6 +79872,30 @@
         ]
     },
     {
+        "id": 110121,
+        "name": "[甘]スイートマジック",
+        "type": "DX",
+        "rights": "©Junky",
+        "artist": "ろん×Junky",
+        "genre": "宴会場",
+        "bpm": "123",
+        "version": "舞萌DX 2026",
+        "charts": [
+            {
+                "level": "12?",
+                "levelValue": 12.0,
+                "notes": {
+                    "tap": 303,
+                    "hold": 43,
+                    "slide": 21,
+                    "touch": 18,
+                    "break": 47
+                },
+                "notesDesigner": ""
+            }
+        ]
+    },
+    {
         "id": 110227,
         "name": "[J]Garakuta Doll Play",
         "type": "DX",
@@ -78696,30 +80052,6 @@
         ]
     },
     {
-        "id": 110579,
-        "name": "[協]ポップミュージックは僕のもの",
-        "type": "DX",
-        "rights": "",
-        "artist": "ONIGAWARA",
-        "genre": "宴会場",
-        "bpm": "135",
-        "version": "舞萌DX 2024",
-        "charts": [
-            {
-                "level": "12+?",
-                "levelValue": 12.7,
-                "notes": {
-                    "tap": 241,
-                    "hold": 47,
-                    "slide": 101,
-                    "touch": 8,
-                    "break": 12
-                },
-                "notesDesigner": ""
-            }
-        ]
-    },
-    {
         "id": 110606,
         "name": "[右]The wheel to the right",
         "type": "DX",
@@ -78852,24 +80184,24 @@
         ]
     },
     {
-        "id": 111222,
-        "name": "[光]BREaK! BREaK! BREaK!",
+        "id": 111113,
+        "name": "[回]ハム太郎とっとこうた",
         "type": "DX",
         "rights": "",
-        "artist": "HiTECH NINJA vs Cranky",
+        "artist": "ハムちゃんず [covered by 光吉猛修]",
         "genre": "宴会場",
-        "bpm": "165",
-        "version": "舞萌DX 2024",
+        "bpm": "140",
+        "version": "舞萌DX 2026",
         "charts": [
             {
-                "level": "14+?",
-                "levelValue": 14.7,
+                "level": "13?",
+                "levelValue": 13.0,
                 "notes": {
-                    "tap": 0,
-                    "hold": 5,
-                    "slide": 0,
-                    "touch": 60,
-                    "break": 1039
+                    "tap": 421,
+                    "hold": 78,
+                    "slide": 81,
+                    "touch": 36,
+                    "break": 58
                 },
                 "notesDesigner": ""
             }
@@ -79068,6 +80400,30 @@
         ]
     },
     {
+        "id": 111388,
+        "name": "[即]チューリングの跡",
+        "type": "DX",
+        "rights": "",
+        "artist": "Frums",
+        "genre": "宴会場",
+        "bpm": "180",
+        "version": "舞萌DX 2026",
+        "charts": [
+            {
+                "level": "13?",
+                "levelValue": 13.0,
+                "notes": {
+                    "tap": 263,
+                    "hold": 0,
+                    "slide": 202,
+                    "touch": 0,
+                    "break": 9
+                },
+                "notesDesigner": ""
+            }
+        ]
+    },
+    {
         "id": 111429,
         "name": "[爆]Love's Theme of BADASS ～バッド・アス 愛のテーマ～",
         "type": "DX",
@@ -79212,30 +80568,6 @@
         ]
     },
     {
-        "id": 111516,
-        "name": "[蔵]Aegleseeker",
-        "type": "DX",
-        "rights": "© lowiro 2023",
-        "artist": "Silentroom vs Frums",
-        "genre": "宴会場",
-        "bpm": "234",
-        "version": "舞萌DX 2024",
-        "charts": [
-            {
-                "level": "14+?",
-                "levelValue": 14.7,
-                "notes": {
-                    "tap": 987,
-                    "hold": 106,
-                    "slide": 42,
-                    "touch": 61,
-                    "break": 73
-                },
-                "notesDesigner": ""
-            }
-        ]
-    },
-    {
         "id": 111557,
         "name": "[蛸]不機嫌なスリーカード",
         "type": "DX",
@@ -79344,6 +80676,42 @@
         ]
     },
     {
+        "id": 111714,
+        "name": "[匿]匿名M",
+        "type": "DX",
+        "rights": "© Crypton Future Media, INC. www.piapro.net (+piapro logo) © mui",
+        "artist": "ピノキオピー",
+        "genre": "宴会場",
+        "bpm": "140",
+        "version": "舞萌DX 2026",
+        "charts": [
+            {
+                "level": "13+?",
+                "levelValue": 13.7,
+                "notes": {
+                    "tap": 347,
+                    "hold": 59,
+                    "slide": 48,
+                    "touch": 7,
+                    "break": 14
+                },
+                "notesDesigner": ""
+            },
+            {
+                "level": "13+?",
+                "levelValue": 13.7,
+                "notes": {
+                    "tap": 549,
+                    "hold": 0,
+                    "slide": 60,
+                    "touch": 45,
+                    "break": 2
+                },
+                "notesDesigner": ""
+            }
+        ]
+    },
+    {
         "id": 111715,
         "name": "[嘘]ライアーダンサー",
         "type": "DX",
@@ -79369,7 +80737,7 @@
     },
     {
         "id": 111772,
-        "name": "[X]人マニア",
+        "name": "[宴]人マニア",
         "type": "DX",
         "rights": "重音テト©線/小山乃舞世/TWINDRILL",
         "artist": "原口沙輔 feat.重音テト",
@@ -79386,6 +80754,42 @@
                     "slide": 76,
                     "touch": 230,
                     "break": 86
+                },
+                "notesDesigner": ""
+            }
+        ]
+    },
+    {
+        "id": 111838,
+        "name": "[助]メズマライザー",
+        "type": "DX",
+        "rights": "©32ki_May © Crypton Future Media, INC. www.piapro.net (+piapro logo) 重音テト©線/小山乃舞世/TWINDRILL",
+        "artist": "サツキ feat.初音ミク・重音テト",
+        "genre": "宴会場",
+        "bpm": "185",
+        "version": "舞萌DX 2026",
+        "charts": [
+            {
+                "level": "13+?",
+                "levelValue": 13.7,
+                "notes": {
+                    "tap": 652,
+                    "hold": 124,
+                    "slide": 151,
+                    "touch": 132,
+                    "break": 21
+                },
+                "notesDesigner": ""
+            },
+            {
+                "level": "13+?",
+                "levelValue": 13.7,
+                "notes": {
+                    "tap": 578,
+                    "hold": 148,
+                    "slide": 2,
+                    "touch": 47,
+                    "break": 188
                 },
                 "notesDesigner": ""
             }
