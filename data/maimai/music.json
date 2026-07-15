@@ -35196,6 +35196,66 @@
         ]
     },
     {
+        "id": 10367,
+        "name": "Dragoon",
+        "type": "DX",
+        "rights": "",
+        "artist": "Shandy kubota",
+        "genre": "maimai",
+        "bpm": "175",
+        "version": "舞萌DX 2026",
+        "charts": [
+            {
+                "level": "4",
+                "levelValue": 4.0,
+                "notes": {
+                    "tap": 129,
+                    "hold": 10,
+                    "slide": 4,
+                    "touch": 16,
+                    "break": 7
+                },
+                "notesDesigner": ""
+            },
+            {
+                "level": "8",
+                "levelValue": 8.0,
+                "notes": {
+                    "tap": 252,
+                    "hold": 16,
+                    "slide": 10,
+                    "touch": 28,
+                    "break": 2
+                },
+                "notesDesigner": ""
+            },
+            {
+                "level": "11",
+                "levelValue": 11.0,
+                "notes": {
+                    "tap": 340,
+                    "hold": 43,
+                    "slide": 54,
+                    "touch": 36,
+                    "break": 29
+                },
+                "notesDesigner": "サファ太"
+            },
+            {
+                "level": "13+",
+                "levelValue": 13.7,
+                "notes": {
+                    "tap": 482,
+                    "hold": 43,
+                    "slide": 108,
+                    "touch": 48,
+                    "break": 26
+                },
+                "notesDesigner": "Luxizhel"
+            }
+        ]
+    },
+    {
         "id": 10375,
         "name": "One Step Ahead",
         "type": "DX",
@@ -78288,6 +78348,66 @@
         ]
     },
     {
+        "id": 11830,
+        "name": "Tidal Wave",
+        "type": "DX",
+        "rights": "",
+        "artist": "D-Cee",
+        "genre": "オンゲキCHUNITHM",
+        "bpm": "175",
+        "version": "舞萌DX 2026",
+        "charts": [
+            {
+                "level": "4",
+                "levelValue": 4.0,
+                "notes": {
+                    "tap": 173,
+                    "hold": 10,
+                    "slide": 4,
+                    "touch": 20,
+                    "break": 5
+                },
+                "notesDesigner": ""
+            },
+            {
+                "level": "7+",
+                "levelValue": 7.7,
+                "notes": {
+                    "tap": 263,
+                    "hold": 12,
+                    "slide": 13,
+                    "touch": 21,
+                    "break": 6
+                },
+                "notesDesigner": ""
+            },
+            {
+                "level": "12",
+                "levelValue": 12.3,
+                "notes": {
+                    "tap": 342,
+                    "hold": 44,
+                    "slide": 34,
+                    "touch": 17,
+                    "break": 16
+                },
+                "notesDesigner": "鳩ホルダー"
+            },
+            {
+                "level": "13+",
+                "levelValue": 13.8,
+                "notes": {
+                    "tap": 426,
+                    "hold": 30,
+                    "slide": 111,
+                    "touch": 25,
+                    "break": 16
+                },
+                "notesDesigner": "あまくちジンジャー"
+            }
+        ]
+    },
+    {
         "id": 11831,
         "name": "きゅびずむ",
         "type": "DX",
@@ -79164,6 +79284,486 @@
         ]
     },
     {
+        "id": 11847,
+        "name": "M@GICAL☆CURE! LOVE ♥ SHOT!",
+        "type": "DX",
+        "rights": "© Crypton Future Media, INC. www.piapro.net (+piapro logo) ©SAWTOWNE",
+        "artist": "SAWTOWNE",
+        "genre": "niconicoボーカロイド",
+        "bpm": "192",
+        "version": "舞萌DX 2026",
+        "charts": [
+            {
+                "level": "4",
+                "levelValue": 4.0,
+                "notes": {
+                    "tap": 186,
+                    "hold": 15,
+                    "slide": 4,
+                    "touch": 14,
+                    "break": 13
+                },
+                "notesDesigner": ""
+            },
+            {
+                "level": "7+",
+                "levelValue": 7.8,
+                "notes": {
+                    "tap": 343,
+                    "hold": 18,
+                    "slide": 11,
+                    "touch": 28,
+                    "break": 5
+                },
+                "notesDesigner": ""
+            },
+            {
+                "level": "11",
+                "levelValue": 11.2,
+                "notes": {
+                    "tap": 453,
+                    "hold": 50,
+                    "slide": 44,
+                    "touch": 41,
+                    "break": 35
+                },
+                "notesDesigner": "鳩ホルダー"
+            },
+            {
+                "level": "13+",
+                "levelValue": 13.7,
+                "notes": {
+                    "tap": 666,
+                    "hold": 65,
+                    "slide": 139,
+                    "touch": 47,
+                    "break": 30
+                },
+                "notesDesigner": "はっぴー"
+            }
+        ]
+    },
+    {
+        "id": 11848,
+        "name": "Overjoy ★ OVERDOSE!!",
+        "type": "DX",
+        "rights": "",
+        "artist": "Luna Fozer (BilliumMoto, 黒皇帝, Sobrem feat. vally.exe)",
+        "genre": "ゲームバラエティ",
+        "bpm": "143",
+        "version": "舞萌DX 2026",
+        "charts": [
+            {
+                "level": "4",
+                "levelValue": 4.0,
+                "notes": {
+                    "tap": 166,
+                    "hold": 13,
+                    "slide": 4,
+                    "touch": 6,
+                    "break": 7
+                },
+                "notesDesigner": ""
+            },
+            {
+                "level": "7+",
+                "levelValue": 7.8,
+                "notes": {
+                    "tap": 313,
+                    "hold": 14,
+                    "slide": 6,
+                    "touch": 26,
+                    "break": 4
+                },
+                "notesDesigner": ""
+            },
+            {
+                "level": "11",
+                "levelValue": 11.0,
+                "notes": {
+                    "tap": 372,
+                    "hold": 72,
+                    "slide": 51,
+                    "touch": 20,
+                    "break": 54
+                },
+                "notesDesigner": "サファ太"
+            },
+            {
+                "level": "14",
+                "levelValue": 14.1,
+                "notes": {
+                    "tap": 827,
+                    "hold": 50,
+                    "slide": 98,
+                    "touch": 40,
+                    "break": 59
+                },
+                "notesDesigner": "Jack"
+            }
+        ]
+    },
+    {
+        "id": 11849,
+        "name": "DATAERR0R",
+        "type": "DX",
+        "rights": "",
+        "artist": "Cosmograph",
+        "genre": "ゲームバラエティ",
+        "bpm": "180",
+        "version": "舞萌DX 2026",
+        "charts": [
+            {
+                "level": "5",
+                "levelValue": 5.0,
+                "notes": {
+                    "tap": 160,
+                    "hold": 13,
+                    "slide": 4,
+                    "touch": 14,
+                    "break": 5
+                },
+                "notesDesigner": ""
+            },
+            {
+                "level": "8",
+                "levelValue": 8.0,
+                "notes": {
+                    "tap": 289,
+                    "hold": 18,
+                    "slide": 10,
+                    "touch": 26,
+                    "break": 3
+                },
+                "notesDesigner": ""
+            },
+            {
+                "level": "11+",
+                "levelValue": 11.7,
+                "notes": {
+                    "tap": 216,
+                    "hold": 62,
+                    "slide": 28,
+                    "touch": 25,
+                    "break": 62
+                },
+                "notesDesigner": "鳩ホルダー"
+            },
+            {
+                "level": "14",
+                "levelValue": 14.0,
+                "notes": {
+                    "tap": 518,
+                    "hold": 60,
+                    "slide": 74,
+                    "touch": 7,
+                    "break": 46
+                },
+                "notesDesigner": "Luxizhel"
+            }
+        ]
+    },
+    {
+        "id": 11850,
+        "name": "あいたい星人",
+        "type": "DX",
+        "rights": "© Crypton Future Media, INC. www.piapro.net (+piapro logo) © DECO*27 © OTOIRO",
+        "artist": "DECO*27",
+        "genre": "niconicoボーカロイド",
+        "bpm": "150",
+        "version": "舞萌DX 2026",
+        "charts": [
+            {
+                "level": "3",
+                "levelValue": 3.0,
+                "notes": {
+                    "tap": 175,
+                    "hold": 11,
+                    "slide": 4,
+                    "touch": 8,
+                    "break": 9
+                },
+                "notesDesigner": ""
+            },
+            {
+                "level": "6",
+                "levelValue": 6.2,
+                "notes": {
+                    "tap": 284,
+                    "hold": 18,
+                    "slide": 13,
+                    "touch": 11,
+                    "break": 4
+                },
+                "notesDesigner": ""
+            },
+            {
+                "level": "9+",
+                "levelValue": 9.7,
+                "notes": {
+                    "tap": 379,
+                    "hold": 76,
+                    "slide": 50,
+                    "touch": 17,
+                    "break": 7
+                },
+                "notesDesigner": "はっぴー"
+            },
+            {
+                "level": "13",
+                "levelValue": 13.2,
+                "notes": {
+                    "tap": 519,
+                    "hold": 62,
+                    "slide": 103,
+                    "touch": 11,
+                    "break": 57
+                },
+                "notesDesigner": "じゃこレモン"
+            }
+        ]
+    },
+    {
+        "id": 11851,
+        "name": "ハオ",
+        "type": "DX",
+        "rights": "© Crypton Future Media, INC. www.piapro.net (+piapro logo) © DECO*27 © OTOIRO",
+        "artist": "DECO*27",
+        "genre": "niconicoボーカロイド",
+        "bpm": "176",
+        "version": "舞萌DX 2026",
+        "charts": [
+            {
+                "level": "3",
+                "levelValue": 3.0,
+                "notes": {
+                    "tap": 155,
+                    "hold": 11,
+                    "slide": 4,
+                    "touch": 7,
+                    "break": 13
+                },
+                "notesDesigner": ""
+            },
+            {
+                "level": "7",
+                "levelValue": 7.0,
+                "notes": {
+                    "tap": 288,
+                    "hold": 14,
+                    "slide": 7,
+                    "touch": 27,
+                    "break": 8
+                },
+                "notesDesigner": ""
+            },
+            {
+                "level": "10",
+                "levelValue": 10.0,
+                "notes": {
+                    "tap": 392,
+                    "hold": 27,
+                    "slide": 21,
+                    "touch": 24,
+                    "break": 38
+                },
+                "notesDesigner": "Luxizhel"
+            },
+            {
+                "level": "13",
+                "levelValue": 13.2,
+                "notes": {
+                    "tap": 442,
+                    "hold": 28,
+                    "slide": 136,
+                    "touch": 76,
+                    "break": 70
+                },
+                "notesDesigner": "鳩ホルダー"
+            }
+        ]
+    },
+    {
+        "id": 11853,
+        "name": "Help me, ERINNNNNN!!",
+        "type": "DX",
+        "rights": "©上海アリス幻樂団",
+        "artist": "ビートまりお",
+        "genre": "東方Project",
+        "bpm": "185",
+        "version": "舞萌DX 2026",
+        "charts": [
+            {
+                "level": "4",
+                "levelValue": 4.0,
+                "notes": {
+                    "tap": 190,
+                    "hold": 11,
+                    "slide": 6,
+                    "touch": 6,
+                    "break": 7
+                },
+                "notesDesigner": ""
+            },
+            {
+                "level": "7+",
+                "levelValue": 7.8,
+                "notes": {
+                    "tap": 297,
+                    "hold": 12,
+                    "slide": 8,
+                    "touch": 42,
+                    "break": 2
+                },
+                "notesDesigner": ""
+            },
+            {
+                "level": "10+",
+                "levelValue": 10.7,
+                "notes": {
+                    "tap": 471,
+                    "hold": 48,
+                    "slide": 41,
+                    "touch": 8,
+                    "break": 13
+                },
+                "notesDesigner": "Luxizhel"
+            },
+            {
+                "level": "13",
+                "levelValue": 13.3,
+                "notes": {
+                    "tap": 619,
+                    "hold": 48,
+                    "slide": 62,
+                    "touch": 100,
+                    "break": 85
+                },
+                "notesDesigner": "鳩ホルダー"
+            }
+        ]
+    },
+    {
+        "id": 11854,
+        "name": "超最終鬼畜妹フランドール・S",
+        "type": "DX",
+        "rights": "©上海アリス幻樂団",
+        "artist": "ビートまりお×まろん",
+        "genre": "東方Project",
+        "bpm": "210",
+        "version": "舞萌DX 2026",
+        "charts": [
+            {
+                "level": "5",
+                "levelValue": 5.0,
+                "notes": {
+                    "tap": 197,
+                    "hold": 11,
+                    "slide": 4,
+                    "touch": 12,
+                    "break": 13
+                },
+                "notesDesigner": ""
+            },
+            {
+                "level": "8",
+                "levelValue": 8.2,
+                "notes": {
+                    "tap": 331,
+                    "hold": 14,
+                    "slide": 11,
+                    "touch": 26,
+                    "break": 2
+                },
+                "notesDesigner": ""
+            },
+            {
+                "level": "12+",
+                "levelValue": 12.6,
+                "notes": {
+                    "tap": 394,
+                    "hold": 76,
+                    "slide": 60,
+                    "touch": 56,
+                    "break": 46
+                },
+                "notesDesigner": "鳩ホルダー"
+            },
+            {
+                "level": "13+",
+                "levelValue": 13.9,
+                "notes": {
+                    "tap": 584,
+                    "hold": 53,
+                    "slide": 88,
+                    "touch": 51,
+                    "break": 64
+                },
+                "notesDesigner": "Luxizhel"
+            }
+        ]
+    },
+    {
+        "id": 11855,
+        "name": "Destined Marionette",
+        "type": "DX",
+        "rights": "",
+        "artist": "ビートまりお",
+        "genre": "ゲームバラエティ",
+        "bpm": "186",
+        "version": "舞萌DX 2026",
+        "charts": [
+            {
+                "level": "4",
+                "levelValue": 4.0,
+                "notes": {
+                    "tap": 190,
+                    "hold": 18,
+                    "slide": 3,
+                    "touch": 8,
+                    "break": 9
+                },
+                "notesDesigner": ""
+            },
+            {
+                "level": "8",
+                "levelValue": 8.2,
+                "notes": {
+                    "tap": 379,
+                    "hold": 20,
+                    "slide": 5,
+                    "touch": 28,
+                    "break": 5
+                },
+                "notesDesigner": ""
+            },
+            {
+                "level": "12",
+                "levelValue": 12.5,
+                "notes": {
+                    "tap": 473,
+                    "hold": 41,
+                    "slide": 51,
+                    "touch": 17,
+                    "break": 40
+                },
+                "notesDesigner": "サファ太"
+            },
+            {
+                "level": "14",
+                "levelValue": 14.2,
+                "notes": {
+                    "tap": 660,
+                    "hold": 81,
+                    "slide": 111,
+                    "touch": 50,
+                    "break": 121
+                },
+                "notesDesigner": "ぴちネコ"
+            }
+        ]
+    },
+    {
         "id": 11919,
         "name": "エンジェル ドリーム",
         "type": "DX",
@@ -79818,6 +80418,30 @@
                     "slide": 2,
                     "touch": 0,
                     "break": 51
+                },
+                "notesDesigner": ""
+            }
+        ]
+    },
+    {
+        "id": 100851,
+        "name": "[幸]犬日和。(はっぴー歌唱Ver)",
+        "type": "SD",
+        "rights": "",
+        "artist": "こうのさんとはっぴーちゃん/Hiroの犯行",
+        "genre": "宴会場",
+        "bpm": "138",
+        "version": "舞萌DX 2026",
+        "charts": [
+            {
+                "level": "13?",
+                "levelValue": 13.0,
+                "notes": {
+                    "tap": 1,
+                    "hold": 402,
+                    "slide": 1,
+                    "touch": 0,
+                    "break": 8
                 },
                 "notesDesigner": ""
             }
@@ -80730,6 +81354,42 @@
                     "slide": 158,
                     "touch": 0,
                     "break": 47
+                },
+                "notesDesigner": ""
+            }
+        ]
+    },
+    {
+        "id": 111770,
+        "name": "[協]Ultimate taste",
+        "type": "DX",
+        "rights": "©上海アリス幻樂団",
+        "artist": "ぱらどっと",
+        "genre": "宴会場",
+        "bpm": "200",
+        "version": "舞萌DX 2026",
+        "charts": [
+            {
+                "level": "13+?",
+                "levelValue": 13.7,
+                "notes": {
+                    "tap": 537,
+                    "hold": 166,
+                    "slide": 71,
+                    "touch": 164,
+                    "break": 26
+                },
+                "notesDesigner": ""
+            },
+            {
+                "level": "13+?",
+                "levelValue": 13.7,
+                "notes": {
+                    "tap": 640,
+                    "hold": 161,
+                    "slide": 98,
+                    "touch": 39,
+                    "break": 41
                 },
                 "notesDesigner": ""
             }
