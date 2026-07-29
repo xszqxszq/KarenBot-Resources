@@ -30,4 +30,6 @@
 
 /models
 
+data/.fonts
+
 *.log
