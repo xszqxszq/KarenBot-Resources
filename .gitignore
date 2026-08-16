@@ -14,7 +14,6 @@
 
 # Large or private runtime assets
 /data/audio/touhou/th*
-!/data/audio/touhou/test.ogg
 
 /data/maimai/avatars
 /data/maimai/covers
@@ -22,7 +21,6 @@
 /data/maimai/preview
 /data/maimai/diving-fish.json
 /data/maimai/diving-fish-stats.json
-/data/maimai/diving-fish.json
 
 /data/chunithm/avatars
 /data/chunithm/covers
@@ -41,3 +39,5 @@ data/.fonts
 # Cover embedding generated files
 /data/maimai/cover-*.json
 /data/chunithm/cover-*.json
+
+/data/database
