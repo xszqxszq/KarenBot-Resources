@@ -1,0 +1,11 @@
+tokens:
+  diving-fish: "__DIVING_FISH_TOKEN__"
+  lxns: "__LXNS_TOKEN__"
+  lxns-oa-id: "__LXNS_OA_ID__"
+  lxns-oa-secret: "__LXNS_OA_SECRET__"
+  lxns-oa-callback: "http://localhost:18100/lxns/callback"
+  assets-jacket: "https://example.com/maimai/jacket"
+  proxy-ip: "127.0.0.1"
+  proxy-server: "127.0.0.1"
+  proxy-port: "18100"
+tips: []
