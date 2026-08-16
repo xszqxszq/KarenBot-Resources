@@ -78228,6 +78228,246 @@
         ]
     },
     {
+        "id": 11811,
+        "name": "概して過誤",
+        "type": "DX",
+        "rights": "",
+        "artist": "isonosuke feat.知声",
+        "genre": "maimai",
+        "bpm": "170",
+        "version": "舞萌DX 2026",
+        "charts": [
+            {
+                "level": "4",
+                "levelValue": 4.0,
+                "notes": {
+                    "tap": 181,
+                    "hold": 13,
+                    "slide": 5,
+                    "touch": 17,
+                    "break": 8
+                },
+                "notesDesigner": ""
+            },
+            {
+                "level": "7+",
+                "levelValue": 7.8,
+                "notes": {
+                    "tap": 306,
+                    "hold": 16,
+                    "slide": 14,
+                    "touch": 29,
+                    "break": 6
+                },
+                "notesDesigner": ""
+            },
+            {
+                "level": "10+",
+                "levelValue": 10.8,
+                "notes": {
+                    "tap": 318,
+                    "hold": 69,
+                    "slide": 43,
+                    "touch": 18,
+                    "break": 53
+                },
+                "notesDesigner": "はっぴー"
+            },
+            {
+                "level": "13+",
+                "levelValue": 13.7,
+                "notes": {
+                    "tap": 608,
+                    "hold": 52,
+                    "slide": 78,
+                    "touch": 19,
+                    "break": 43
+                },
+                "notesDesigner": "鳩ホルダー"
+            }
+        ]
+    },
+    {
+        "id": 11812,
+        "name": "Unfinished Epic",
+        "type": "DX",
+        "rights": "",
+        "artist": "SLAVE.V-V-R feat.Sor△",
+        "genre": "maimai",
+        "bpm": "185",
+        "version": "舞萌DX 2026",
+        "charts": [
+            {
+                "level": "5",
+                "levelValue": 5.0,
+                "notes": {
+                    "tap": 247,
+                    "hold": 11,
+                    "slide": 4,
+                    "touch": 8,
+                    "break": 8
+                },
+                "notesDesigner": ""
+            },
+            {
+                "level": "8+",
+                "levelValue": 8.7,
+                "notes": {
+                    "tap": 405,
+                    "hold": 14,
+                    "slide": 12,
+                    "touch": 20,
+                    "break": 6
+                },
+                "notesDesigner": ""
+            },
+            {
+                "level": "11",
+                "levelValue": 11.5,
+                "notes": {
+                    "tap": 427,
+                    "hold": 63,
+                    "slide": 77,
+                    "touch": 38,
+                    "break": 50
+                },
+                "notesDesigner": "Jack"
+            },
+            {
+                "level": "13+",
+                "levelValue": 13.8,
+                "notes": {
+                    "tap": 584,
+                    "hold": 46,
+                    "slide": 126,
+                    "touch": 71,
+                    "break": 76
+                },
+                "notesDesigner": "Luxizhel"
+            }
+        ]
+    },
+    {
+        "id": 11813,
+        "name": "忙シー日",
+        "type": "DX",
+        "rights": "",
+        "artist": "原口沙輔, 式部めぐり",
+        "genre": "maimai",
+        "bpm": "150",
+        "version": "舞萌DX 2026",
+        "charts": [
+            {
+                "level": "3",
+                "levelValue": 3.0,
+                "notes": {
+                    "tap": 139,
+                    "hold": 12,
+                    "slide": 7,
+                    "touch": 8,
+                    "break": 28
+                },
+                "notesDesigner": ""
+            },
+            {
+                "level": "7+",
+                "levelValue": 7.9,
+                "notes": {
+                    "tap": 298,
+                    "hold": 16,
+                    "slide": 14,
+                    "touch": 26,
+                    "break": 2
+                },
+                "notesDesigner": ""
+            },
+            {
+                "level": "11+",
+                "levelValue": 11.8,
+                "notes": {
+                    "tap": 280,
+                    "hold": 112,
+                    "slide": 47,
+                    "touch": 13,
+                    "break": 77
+                },
+                "notesDesigner": "サファ太"
+            },
+            {
+                "level": "14",
+                "levelValue": 14.2,
+                "notes": {
+                    "tap": 683,
+                    "hold": 36,
+                    "slide": 140,
+                    "touch": 49,
+                    "break": 54
+                },
+                "notesDesigner": "はっぴー"
+            }
+        ]
+    },
+    {
+        "id": 11814,
+        "name": "FLΛME/FRΦST",
+        "type": "DX",
+        "rights": "",
+        "artist": "FANTAGIRAFF",
+        "genre": "maimai",
+        "bpm": "174",
+        "version": "舞萌DX 2026",
+        "charts": [
+            {
+                "level": "5",
+                "levelValue": 5.0,
+                "notes": {
+                    "tap": 203,
+                    "hold": 12,
+                    "slide": 6,
+                    "touch": 8,
+                    "break": 14
+                },
+                "notesDesigner": ""
+            },
+            {
+                "level": "8",
+                "levelValue": 8.0,
+                "notes": {
+                    "tap": 297,
+                    "hold": 20,
+                    "slide": 10,
+                    "touch": 28,
+                    "break": 3
+                },
+                "notesDesigner": ""
+            },
+            {
+                "level": "12+",
+                "levelValue": 12.9,
+                "notes": {
+                    "tap": 424,
+                    "hold": 31,
+                    "slide": 63,
+                    "touch": 19,
+                    "break": 62
+                },
+                "notesDesigner": "はっぴー"
+            },
+            {
+                "level": "14+",
+                "levelValue": 14.8,
+                "notes": {
+                    "tap": 687,
+                    "hold": 46,
+                    "slide": 73,
+                    "touch": 118,
+                    "break": 122
+                },
+                "notesDesigner": "SΛFΛRI/RΦCHER"
+            }
+        ]
+    },
+    {
         "id": 11822,
         "name": "Supersonic Generation",
         "type": "DX",
@@ -78344,6 +78584,66 @@
                     "break": 87
                 },
                 "notesDesigner": "サファ太"
+            }
+        ]
+    },
+    {
+        "id": 11824,
+        "name": "なんかノイズにきこえる",
+        "type": "DX",
+        "rights": "",
+        "artist": "HaNaMiNa feat.Hana",
+        "genre": "オンゲキCHUNITHM",
+        "bpm": "160",
+        "version": "舞萌DX 2026",
+        "charts": [
+            {
+                "level": "3",
+                "levelValue": 3.0,
+                "notes": {
+                    "tap": 210,
+                    "hold": 9,
+                    "slide": 4,
+                    "touch": 6,
+                    "break": 7
+                },
+                "notesDesigner": ""
+            },
+            {
+                "level": "7",
+                "levelValue": 7.5,
+                "notes": {
+                    "tap": 316,
+                    "hold": 16,
+                    "slide": 10,
+                    "touch": 26,
+                    "break": 3
+                },
+                "notesDesigner": ""
+            },
+            {
+                "level": "9+",
+                "levelValue": 9.7,
+                "notes": {
+                    "tap": 416,
+                    "hold": 39,
+                    "slide": 47,
+                    "touch": 6,
+                    "break": 36
+                },
+                "notesDesigner": "じゃこレモン"
+            },
+            {
+                "level": "13+",
+                "levelValue": 13.7,
+                "notes": {
+                    "tap": 661,
+                    "hold": 37,
+                    "slide": 135,
+                    "touch": 11,
+                    "break": 49
+                },
+                "notesDesigner": "はっぴー"
             }
         ]
     },
@@ -79284,6 +79584,126 @@
         ]
     },
     {
+        "id": 11845,
+        "name": "マヌルネコのうた",
+        "type": "DX",
+        "rights": "©GRANDFUNK INC.",
+        "artist": "小田朋美",
+        "genre": "POPSアニメ",
+        "bpm": "137",
+        "version": "舞萌DX 2026",
+        "charts": [
+            {
+                "level": "3",
+                "levelValue": 3.0,
+                "notes": {
+                    "tap": 116,
+                    "hold": 8,
+                    "slide": 6,
+                    "touch": 9,
+                    "break": 5
+                },
+                "notesDesigner": ""
+            },
+            {
+                "level": "6",
+                "levelValue": 6.0,
+                "notes": {
+                    "tap": 190,
+                    "hold": 14,
+                    "slide": 7,
+                    "touch": 28,
+                    "break": 5
+                },
+                "notesDesigner": ""
+            },
+            {
+                "level": "9+",
+                "levelValue": 9.8,
+                "notes": {
+                    "tap": 258,
+                    "hold": 54,
+                    "slide": 33,
+                    "touch": 32,
+                    "break": 21
+                },
+                "notesDesigner": "鳩ホルダー"
+            },
+            {
+                "level": "13",
+                "levelValue": 13.0,
+                "notes": {
+                    "tap": 322,
+                    "hold": 8,
+                    "slide": 153,
+                    "touch": 5,
+                    "break": 15
+                },
+                "notesDesigner": "アマリリス"
+            }
+        ]
+    },
+    {
+        "id": 11846,
+        "name": "スナネコのうた",
+        "type": "DX",
+        "rights": "©GRANDFUNK INC.",
+        "artist": "ぷにぷに電機",
+        "genre": "POPSアニメ",
+        "bpm": "92",
+        "version": "舞萌DX 2026",
+        "charts": [
+            {
+                "level": "2",
+                "levelValue": 2.0,
+                "notes": {
+                    "tap": 98,
+                    "hold": 2,
+                    "slide": 4,
+                    "touch": 8,
+                    "break": 5
+                },
+                "notesDesigner": ""
+            },
+            {
+                "level": "6",
+                "levelValue": 6.0,
+                "notes": {
+                    "tap": 159,
+                    "hold": 12,
+                    "slide": 4,
+                    "touch": 13,
+                    "break": 4
+                },
+                "notesDesigner": ""
+            },
+            {
+                "level": "9+",
+                "levelValue": 9.7,
+                "notes": {
+                    "tap": 176,
+                    "hold": 38,
+                    "slide": 16,
+                    "touch": 17,
+                    "break": 14
+                },
+                "notesDesigner": "サファ太"
+            },
+            {
+                "level": "13",
+                "levelValue": 13.4,
+                "notes": {
+                    "tap": 280,
+                    "hold": 34,
+                    "slide": 58,
+                    "touch": 118,
+                    "break": 76
+                },
+                "notesDesigner": "ぴちネコ"
+            }
+        ]
+    },
+    {
         "id": 11847,
         "name": "M@GICAL☆CURE! LOVE ♥ SHOT!",
         "type": "DX",
@@ -79584,6 +80004,66 @@
         ]
     },
     {
+        "id": 11852,
+        "name": "好きな惣菜発表ドラゴン",
+        "type": "DX",
+        "rights": "©ンバヂ",
+        "artist": "ンバヂ",
+        "genre": "niconicoボーカロイド",
+        "bpm": "160",
+        "version": "舞萌DX 2026",
+        "charts": [
+            {
+                "level": "3",
+                "levelValue": 3.0,
+                "notes": {
+                    "tap": 131,
+                    "hold": 11,
+                    "slide": 6,
+                    "touch": 6,
+                    "break": 10
+                },
+                "notesDesigner": ""
+            },
+            {
+                "level": "6",
+                "levelValue": 6.5,
+                "notes": {
+                    "tap": 247,
+                    "hold": 12,
+                    "slide": 9,
+                    "touch": 28,
+                    "break": 6
+                },
+                "notesDesigner": ""
+            },
+            {
+                "level": "9",
+                "levelValue": 9.5,
+                "notes": {
+                    "tap": 250,
+                    "hold": 39,
+                    "slide": 22,
+                    "touch": 0,
+                    "break": 43
+                },
+                "notesDesigner": "はっぴー"
+            },
+            {
+                "level": "12",
+                "levelValue": 12.5,
+                "notes": {
+                    "tap": 294,
+                    "hold": 63,
+                    "slide": 55,
+                    "touch": 28,
+                    "break": 50
+                },
+                "notesDesigner": "はっぴー"
+            }
+        ]
+    },
+    {
         "id": 11853,
         "name": "Help me, ERINNNNNN!!",
         "type": "DX",
@@ -79760,6 +80240,186 @@
                     "break": 121
                 },
                 "notesDesigner": "ぴちネコ"
+            }
+        ]
+    },
+    {
+        "id": 11871,
+        "name": "クーネル・エンゲイザー",
+        "type": "DX",
+        "rights": "©AI, Inc. ©創作集団52Hz",
+        "artist": "電ǂ鯨",
+        "genre": "niconicoボーカロイド",
+        "bpm": "170",
+        "version": "舞萌DX 2026",
+        "charts": [
+            {
+                "level": "3",
+                "levelValue": 3.0,
+                "notes": {
+                    "tap": 183,
+                    "hold": 10,
+                    "slide": 4,
+                    "touch": 8,
+                    "break": 5
+                },
+                "notesDesigner": ""
+            },
+            {
+                "level": "7",
+                "levelValue": 7.0,
+                "notes": {
+                    "tap": 310,
+                    "hold": 14,
+                    "slide": 8,
+                    "touch": 14,
+                    "break": 4
+                },
+                "notesDesigner": ""
+            },
+            {
+                "level": "9+",
+                "levelValue": 9.7,
+                "notes": {
+                    "tap": 303,
+                    "hold": 75,
+                    "slide": 33,
+                    "touch": 18,
+                    "break": 52
+                },
+                "notesDesigner": "サファ太"
+            },
+            {
+                "level": "12+",
+                "levelValue": 12.8,
+                "notes": {
+                    "tap": 390,
+                    "hold": 49,
+                    "slide": 130,
+                    "touch": 32,
+                    "break": 43
+                },
+                "notesDesigner": "はっぴー"
+            }
+        ]
+    },
+    {
+        "id": 11872,
+        "name": "ゼロトーキング",
+        "type": "DX",
+        "rights": "©HarumakiGohan",
+        "artist": "はるまきごはん",
+        "genre": "niconicoボーカロイド",
+        "bpm": "133",
+        "version": "舞萌DX 2026",
+        "charts": [
+            {
+                "level": "2",
+                "levelValue": 2.0,
+                "notes": {
+                    "tap": 138,
+                    "hold": 10,
+                    "slide": 4,
+                    "touch": 14,
+                    "break": 1
+                },
+                "notesDesigner": ""
+            },
+            {
+                "level": "6",
+                "levelValue": 6.0,
+                "notes": {
+                    "tap": 209,
+                    "hold": 14,
+                    "slide": 11,
+                    "touch": 28,
+                    "break": 3
+                },
+                "notesDesigner": ""
+            },
+            {
+                "level": "9+",
+                "levelValue": 9.8,
+                "notes": {
+                    "tap": 264,
+                    "hold": 53,
+                    "slide": 27,
+                    "touch": 29,
+                    "break": 10
+                },
+                "notesDesigner": "はっぴー"
+            },
+            {
+                "level": "13",
+                "levelValue": 13.2,
+                "notes": {
+                    "tap": 461,
+                    "hold": 69,
+                    "slide": 69,
+                    "touch": 57,
+                    "break": 22
+                },
+                "notesDesigner": "Jack"
+            }
+        ]
+    },
+    {
+        "id": 11873,
+        "name": "抜錨",
+        "type": "DX",
+        "rights": "©Butai Entertainment Inc.",
+        "artist": "ナナホシ管弦楽団",
+        "genre": "niconicoボーカロイド",
+        "bpm": "140",
+        "version": "舞萌DX 2026",
+        "charts": [
+            {
+                "level": "3",
+                "levelValue": 3.0,
+                "notes": {
+                    "tap": 158,
+                    "hold": 10,
+                    "slide": 5,
+                    "touch": 14,
+                    "break": 6
+                },
+                "notesDesigner": ""
+            },
+            {
+                "level": "6+",
+                "levelValue": 6.7,
+                "notes": {
+                    "tap": 282,
+                    "hold": 14,
+                    "slide": 7,
+                    "touch": 13,
+                    "break": 6
+                },
+                "notesDesigner": ""
+            },
+            {
+                "level": "10+",
+                "levelValue": 10.7,
+                "notes": {
+                    "tap": 425,
+                    "hold": 60,
+                    "slide": 43,
+                    "touch": 2,
+                    "break": 34
+                },
+                "notesDesigner": "アマリリス"
+            },
+            {
+                "level": "13",
+                "levelValue": 13.0,
+                "notes": {
+                    "tap": 554,
+                    "hold": 42,
+                    "slide": 106,
+                    "touch": 23,
+                    "break": 40
+                },
+                "notesDesigner": "鳩ホルダー"
             }
         ]
     },
@@ -81456,6 +82116,30 @@
         ]
     },
     {
+        "id": 111852,
+        "name": "[好]好きな惣菜発表ドラゴン",
+        "type": "DX",
+        "rights": "©ンバヂ",
+        "artist": "ンバヂ",
+        "genre": "宴会場",
+        "bpm": "160",
+        "version": "舞萌DX 2026",
+        "charts": [
+            {
+                "level": "14?",
+                "levelValue": 14.0,
+                "notes": {
+                    "tap": 689,
+                    "hold": 61,
+                    "slide": 123,
+                    "touch": 28,
+                    "break": 25
+                },
+                "notesDesigner": ""
+            }
+        ]
+    },
+    {
         "id": 120227,
         "name": "[r]Garakuta Doll Play",
         "type": "DX",
@@ -81474,6 +82158,30 @@
                     "slide": 177,
                     "touch": 0,
                     "break": 19
+                },
+                "notesDesigner": ""
+            }
+        ]
+    },
+    {
+        "id": 121852,
+        "name": "[譜]好きな惣菜発表ドラゴン",
+        "type": "DX",
+        "rights": "©ンバヂ",
+        "artist": "ンバヂ",
+        "genre": "宴会場",
+        "bpm": "160",
+        "version": "舞萌DX 2026",
+        "charts": [
+            {
+                "level": "14?",
+                "levelValue": 14.0,
+                "notes": {
+                    "tap": 574,
+                    "hold": 51,
+                    "slide": 119,
+                    "touch": 32,
+                    "break": 55
                 },
                 "notesDesigner": ""
             }
@@ -81504,6 +82212,30 @@
         ]
     },
     {
+        "id": 131852,
+        "name": "[面]好きな惣菜発表ドラゴン",
+        "type": "DX",
+        "rights": "©ンバヂ",
+        "artist": "ンバヂ",
+        "genre": "宴会場",
+        "bpm": "160",
+        "version": "舞萌DX 2026",
+        "charts": [
+            {
+                "level": "14?",
+                "levelValue": 14.0,
+                "notes": {
+                    "tap": 533,
+                    "hold": 70,
+                    "slide": 115,
+                    "touch": 73,
+                    "break": 69
+                },
+                "notesDesigner": ""
+            }
+        ]
+    },
+    {
         "id": 140227,
         "name": "[某]Garakuta Doll Play",
         "type": "DX",
@@ -81522,6 +82254,78 @@
                     "slide": 120,
                     "touch": 0,
                     "break": 341
+                },
+                "notesDesigner": ""
+            }
+        ]
+    },
+    {
+        "id": 141852,
+        "name": "[発]好きな惣菜発表ドラゴン",
+        "type": "DX",
+        "rights": "©ンバヂ",
+        "artist": "ンバヂ",
+        "genre": "宴会場",
+        "bpm": "160",
+        "version": "舞萌DX 2026",
+        "charts": [
+            {
+                "level": "13+?",
+                "levelValue": 13.7,
+                "notes": {
+                    "tap": 487,
+                    "hold": 52,
+                    "slide": 153,
+                    "touch": 5,
+                    "break": 32
+                },
+                "notesDesigner": ""
+            }
+        ]
+    },
+    {
+        "id": 151852,
+        "name": "[表]好きな惣菜発表ドラゴン",
+        "type": "DX",
+        "rights": "©ンバヂ",
+        "artist": "ンバヂ",
+        "genre": "宴会場",
+        "bpm": "160",
+        "version": "舞萌DX 2026",
+        "charts": [
+            {
+                "level": "13+?",
+                "levelValue": 13.7,
+                "notes": {
+                    "tap": 399,
+                    "hold": 75,
+                    "slide": 102,
+                    "touch": 79,
+                    "break": 30
+                },
+                "notesDesigner": ""
+            }
+        ]
+    },
+    {
+        "id": 161852,
+        "name": "[龍]好きな惣菜発表ドラゴン",
+        "type": "DX",
+        "rights": "©ンバヂ",
+        "artist": "ンバヂ",
+        "genre": "宴会場",
+        "bpm": "160",
+        "version": "舞萌DX 2026",
+        "charts": [
+            {
+                "level": "13+?",
+                "levelValue": 13.7,
+                "notes": {
+                    "tap": 545,
+                    "hold": 62,
+                    "slide": 80,
+                    "touch": 5,
+                    "break": 15
                 },
                 "notesDesigner": ""
             }
