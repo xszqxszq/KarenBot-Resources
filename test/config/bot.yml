@@ -1,0 +1,5 @@
+database:
+  url: "jdbc:h2:mem:admin-test"
+  driver: "org.h2.Driver"
+  username: ""
+  password: ""
