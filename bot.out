@@ -1,0 +1,64 @@
+OpenJDK 64-Bit Server VM warning: -XX:ThreadPriorityPolicy=1 may require system level permission, e.g., being the root user. If the necessary permission is not possessed, changes to priority will be silently ignored.
+OpenJDK 64-Bit Server VM warning: -XX:ThreadPriorityPolicy=1 may require system level permission, e.g., being the root user. If the necessary permission is not possessed, changes to priority will be silently ignored.
+INFO  [猜谜] 插件加载完成。
+7月 31, 2026 2:21:54 下午 org.apache.lucene.internal.vectorization.VectorizationProvider lookup
+警告: Java runtime is using JVMCI Compiler; Java vector incubator API can't be enabled.
+objc[55632]: Class WindowDragView is implemented in both /Users/xszq/.skiko/skiko-macos-arm64-0021e781df1058dc2466e6e9a4490a80b8ed3566be2d3374057f5cd8680d416d/libskiko-macos-arm64.dylib (0x133af9d90) and /private/var/folders/ky/47h_2scs7h1631692qz9b4s80000gn/T/skiko14586248804182210704/libskiko-macos-arm64.dylib (0x1399f9d90). This may cause spurious casting failures and mysterious crashes. One of the duplicates must be removed or renamed.
+objc[55632]: Class LayerHandler is implemented in both /Users/xszq/.skiko/skiko-macos-arm64-0021e781df1058dc2466e6e9a4490a80b8ed3566be2d3374057f5cd8680d416d/libskiko-macos-arm64.dylib (0x133af9de0) and /private/var/folders/ky/47h_2scs7h1631692qz9b4s80000gn/T/skiko14586248804182210704/libskiko-macos-arm64.dylib (0x1399f9de0). This may cause spurious casting failures and mysterious crashes. One of the duplicates must be removed or renamed.
+objc[55632]: Class AWTMetalLayer is implemented in both /Users/xszq/.skiko/skiko-macos-arm64-0021e781df1058dc2466e6e9a4490a80b8ed3566be2d3374057f5cd8680d416d/libskiko-macos-arm64.dylib (0x133af9e30) and /private/var/folders/ky/47h_2scs7h1631692qz9b4s80000gn/T/skiko14586248804182210704/libskiko-macos-arm64.dylib (0x1399f9e30). This may cause spurious casting failures and mysterious crashes. One of the duplicates must be removed or renamed.
+objc[55632]: Class MetalDevice is implemented in both /Users/xszq/.skiko/skiko-macos-arm64-0021e781df1058dc2466e6e9a4490a80b8ed3566be2d3374057f5cd8680d416d/libskiko-macos-arm64.dylib (0x133af9e80) and /private/var/folders/ky/47h_2scs7h1631692qz9b4s80000gn/T/skiko14586248804182210704/libskiko-macos-arm64.dylib (0x1399f9e80). This may cause spurious casting failures and mysterious crashes. One of the duplicates must be removed or renamed.
+objc[55632]: Class MTLCommandQueueCache is implemented in both /Users/xszq/.skiko/skiko-macos-arm64-0021e781df1058dc2466e6e9a4490a80b8ed3566be2d3374057f5cd8680d416d/libskiko-macos-arm64.dylib (0x133af9ed0) and /private/var/folders/ky/47h_2scs7h1631692qz9b4s80000gn/T/skiko14586248804182210704/libskiko-macos-arm64.dylib (0x1399f9ed0). This may cause spurious casting failures and mysterious crashes. One of the duplicates must be removed or renamed.
+objc[55632]: Class DisplayLinkThrottler is implemented in both /Users/xszq/.skiko/skiko-macos-arm64-0021e781df1058dc2466e6e9a4490a80b8ed3566be2d3374057f5cd8680d416d/libskiko-macos-arm64.dylib (0x133af9f20) and /private/var/folders/ky/47h_2scs7h1631692qz9b4s80000gn/T/skiko14586248804182210704/libskiko-macos-arm64.dylib (0x1399f9f20). This may cause spurious casting failures and mysterious crashes. One of the duplicates must be removed or renamed.
+INFO  [舞萌] 正在加载图片中……
+INFO  [舞萌] 别名初始化中……
+INFO  [舞萌] 载入拟合定数中……
+INFO  Autoreload is disabled because the development mode is off.
+INFO  Application started in 0.027 seconds.
+INFO  Responding at http://0.0.0.0:18100
+INFO  [舞萌] 正在加载数据源 diving-fish……
+INFO  [舞萌] 正在加载数据源 lxns……
+INFO  [舞萌] 插件加载完成。
+INFO  [舞萌] 数据源 lxns加载完毕。
+INFO  [舞萌] 数据源 diving-fish加载完毕。
+INFO  [中二] 正在加载数据源 diving-fish……
+INFO  [中二] 数据源 diving-fish加载完毕。
+INFO  [中二] 正在加载数据源 lxns……
+INFO  [中二] 数据源 lxns加载完毕。
+INFO  [管理] 插件加载完成。
+WARN  警告：无法连接到 meme 服务器
+INFO  [表情包] 插件加载完成。
+INFO  [舞萌] 图片载入完毕。
+INFO  [舞萌] 别名初始化完毕。
+INFO  [舞萌] 拟合定数载入完毕。
+INFO  loading language resources for en from jtok/en
+INFO  loading language resources for en from jtok/en
+INFO  [活字印刷] 插件加载完成。
+INFO  [文本] 使用远程API: http://10.10.0.3:18101
+INFO  [文本] 插件加载完成。
+INFO  [中二] 中二数据加载完成。
+INFO  [中二] 正在加载图片中……
+objc[55632]: Class WindowDragView is implemented in both /Users/xszq/.skiko/skiko-macos-arm64-0021e781df1058dc2466e6e9a4490a80b8ed3566be2d3374057f5cd8680d416d/libskiko-macos-arm64.dylib (0x133af9d90) and /private/var/folders/ky/47h_2scs7h1631692qz9b4s80000gn/T/skiko12518382747232168652/libskiko-macos-arm64.dylib (0xb50805d90). This may cause spurious casting failures and mysterious crashes. One of the duplicates must be removed or renamed.
+objc[55632]: Class LayerHandler is implemented in both /Users/xszq/.skiko/skiko-macos-arm64-0021e781df1058dc2466e6e9a4490a80b8ed3566be2d3374057f5cd8680d416d/libskiko-macos-arm64.dylib (0x133af9de0) and /private/var/folders/ky/47h_2scs7h1631692qz9b4s80000gn/T/skiko12518382747232168652/libskiko-macos-arm64.dylib (0xb50805de0). This may cause spurious casting failures and mysterious crashes. One of the duplicates must be removed or renamed.
+objc[55632]: Class AWTMetalLayer is implemented in both /Users/xszq/.skiko/skiko-macos-arm64-0021e781df1058dc2466e6e9a4490a80b8ed3566be2d3374057f5cd8680d416d/libskiko-macos-arm64.dylib (0x133af9e30) and /private/var/folders/ky/47h_2scs7h1631692qz9b4s80000gn/T/skiko12518382747232168652/libskiko-macos-arm64.dylib (0xb50805e30). This may cause spurious casting failures and mysterious crashes. One of the duplicates must be removed or renamed.
+objc[55632]: Class MetalDevice is implemented in both /Users/xszq/.skiko/skiko-macos-arm64-0021e781df1058dc2466e6e9a4490a80b8ed3566be2d3374057f5cd8680d416d/libskiko-macos-arm64.dylib (0x133af9e80) and /private/var/folders/ky/47h_2scs7h1631692qz9b4s80000gn/T/skiko12518382747232168652/libskiko-macos-arm64.dylib (0xb50805e80). This may cause spurious casting failures and mysterious crashes. One of the duplicates must be removed or renamed.
+objc[55632]: Class MTLCommandQueueCache is implemented in both /Users/xszq/.skiko/skiko-macos-arm64-0021e781df1058dc2466e6e9a4490a80b8ed3566be2d3374057f5cd8680d416d/libskiko-macos-arm64.dylib (0x133af9ed0) and /private/var/folders/ky/47h_2scs7h1631692qz9b4s80000gn/T/skiko12518382747232168652/libskiko-macos-arm64.dylib (0xb50805ed0). This may cause spurious casting failures and mysterious crashes. One of the duplicates must be removed or renamed.
+objc[55632]: Class DisplayLinkThrottler is implemented in both /Users/xszq/.skiko/skiko-macos-arm64-0021e781df1058dc2466e6e9a4490a80b8ed3566be2d3374057f5cd8680d416d/libskiko-macos-arm64.dylib (0x133af9f20) and /private/var/folders/ky/47h_2scs7h1631692qz9b4s80000gn/T/skiko12518382747232168652/libskiko-macos-arm64.dylib (0xb50805f20). This may cause spurious casting failures and mysterious crashes. One of the duplicates must be removed or renamed.
+7月 31, 2026 2:22:01 下午 org.apache.lucene.internal.vectorization.VectorizationProvider lookup
+警告: Java runtime is using JVMCI Compiler; Java vector incubator API can't be enabled.
+INFO  Autoreload is disabled because the development mode is off.
+Exception in thread "DefaultDispatcher-worker-10" kotlin.io.ReadAfterEOFException: EOF has already been reached
+	at kotlin.io.ConsoleKt.readln(Console.kt:152)
+	at xyz.xszq.bot.KarenBotApplication.readInput(KarenBotApplication.kt:143)
+	at xyz.xszq.bot.KarenBotApplication$start$2$1.invokeSuspend(KarenBotApplication.kt:124)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+	at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:100)
+	at kotlinx.coroutines.internal.LimitedDispatcher$Worker.run(LimitedDispatcher.kt:124)
+	at kotlinx.coroutines.scheduling.TaskImpl.run(Tasks.kt:89)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:586)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:820)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:717)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:704)
+	Suppressed: kotlinx.coroutines.internal.DiagnosticCoroutineContextException: [StandaloneCoroutine{Cancelling}@67c5ca55, Dispatchers.IO]
+INFO  Application started in 0.008 seconds.
+INFO  Responding at http://0.0.0.0:18080
+INFO  [中二] 图片载入完毕。

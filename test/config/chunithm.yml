@@ -3,5 +3,7 @@ tokens:
   lxns: "__LXNS_TOKEN__"
   lxns-oa-id: "__LXNS_OA_ID__"
   lxns-oa-secret: "__LXNS_OA_SECRET__"
+  diving-fish-oa-id: "__DIVING_FISH_OA_ID__"
+  diving-fish-oa-secret: "__DIVING_FISH_OA_SECRET__"
   lxns-oa-callback: "http://localhost:18100/lxns/callback"
   assets-jacket: "https://example.com/chunithm/jacket"
