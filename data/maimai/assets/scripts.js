@@ -1,3 +1,5 @@
+// noinspection DuplicatedCode
+
 document.addEventListener("DOMContentLoaded", () => {
     document.querySelectorAll('[style]').forEach(el => {
         const styleAttr = el.getAttribute('style');
@@ -67,7 +69,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 
                 const bgSize = styleStr.match(/background-size:\s*(cover|contain|100%\s*100%)/)?.[1] || 'auto';
                 
-                let dx = 0, dy = 0, drawW = canvas.width, drawH = canvas.height;
+                let dx = 0, dy = 0, drawW, drawH;
                 
                 if (bgSize === 'cover') {
                     const scale = Math.max(canvas.width / bgImg.width, canvas.height / bgImg.height);
