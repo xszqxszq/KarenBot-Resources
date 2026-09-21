@@ -1,0 +1,11 @@
+# nonk8s
+apiVersion: 1
+
+providers:
+  - name: karenbot
+    folder: karenbot
+    type: file
+    disableDeletion: true
+    updateIntervalSeconds: 30
+    options:
+      path: ${KARENBOT_MONITORING_DIR}/grafana/dashboards

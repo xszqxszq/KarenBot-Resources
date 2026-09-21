@@ -1,0 +1,135 @@
+groups:
+  - name: karenbot.availability
+    interval: 30s
+    rules:
+      - alert: karenbot_metrics_down
+        expr: up{job="karenbot"} == 0
+        for: 2m
+        labels:
+          severity: critical
+        annotations:
+          summary: "Bot监控数据无法拉取"
+          description: "Prometheus连续2分钟无法拉取127.0.0.1:18081"
+
+      - alert: karenbot_metrics_missing
+        expr: absent(up{job="karenbot"})
+        for: 5m
+        labels:
+          severity: critical
+        annotations:
+          summary: "Bot无监控数据"
+          description: "请检查配置"
+
+  - name: karenbot.business
+    interval: 30s
+    rules:
+      - alert: karenbot_webhook_validation_failed
+        expr: sum by (stage, outcome) (increase(karenbot_webhook_validation_total{outcome=~"bad_agent|bad_appid|missing_signature|missing_timestamp|invalid"}[10m])) > 3
+        for: 2m
+        labels:
+          severity: warning
+        annotations:
+          summary: "Webhook校验失败增多"
+          description: "10分钟内{{ $labels.stage }}/{{ $labels.outcome }}超过3次"
+
+      - alert: karenbot_plugin_errors
+        expr: sum by (plugin) (increase(karenbot_plugin_handler_seconds_count{outcome="error"}[10m])) > 3
+        for: 2m
+        labels:
+          severity: warning
+        annotations:
+          summary: "插件异常增多"
+          description: "插件{{ $labels.plugin }}10分钟内处理错误超过3次"
+
+      - alert: karenbot_qq_ratelimited
+        expr: sum by (api) (increase(karenbot_qq_request_total{outcome="rate_limited"}[10m])) > 3
+        for: 2m
+        labels:
+          severity: warning
+        annotations:
+          summary: "QQ请求触发429"
+          description: "接口{{ $labels.api }}10分钟内429超过3次"
+
+      - alert: karenbot_qq_request_failed
+        expr: sum by (api, outcome) (increase(karenbot_qq_request_total{outcome=~"client_error|server_error|transport_error"}[10m])) > 5
+        for: 5m
+        labels:
+          severity: warning
+        annotations:
+          summary: "QQ请求失败增多"
+          description: "接口{{ $labels.api }}10分钟内{{ $labels.outcome }}超过5次"
+
+      - alert: karenbot_prober_failed
+        expr: sum by (game, provider) (increase(karenbot_prober_request_total{outcome="error"}[10m])) > 3
+        for: 5m
+        labels:
+          severity: warning
+        annotations:
+          summary: "查分器请求失败增多"
+          description: "{{ $labels.game }}的{{ $labels.provider }}10分钟内失败超过3次"
+
+      - alert: karenbot_prober_fallback
+        expr: sum by (game, provider) (increase(karenbot_prober_fallback_total[10m])) > 3
+        for: 5m
+        labels:
+          severity: info
+        annotations:
+          summary: "查分器备用后端切换增多"
+          description: "{{ $labels.game }}10分钟内切到{{ $labels.provider }}超过3次"
+
+      - alert: karenbot_rating_query_slow
+        expr: histogram_quantile(0.95, sum by (le, game, provider) (rate(karenbot_rating_query_seconds_bucket[10m]))) > 5
+        for: 10m
+        labels:
+          severity: warning
+        annotations:
+          summary: "Rating查询P95变慢"
+          description: "{{ $labels.game }}/{{ $labels.provider }}的rating查询P95连续10分钟高于5秒"
+
+      - alert: karenbot_rating_render_slow
+        expr: histogram_quantile(0.95, sum by (le, game) (rate(karenbot_render_seconds_bucket{template="rating"}[10m]))) > 3
+        for: 10m
+        labels:
+          severity: warning
+        annotations:
+          summary: "Rating渲染P95变慢"
+          description: "{{ $labels.game }}的rating渲染P95连续10分钟高于3秒"
+
+  - name: karenbot.runtime
+    interval: 30s
+    rules:
+      - alert: karenbot_database_errors
+        expr: sum by (mode, access) (increase(karenbot_db_transaction_seconds_count{outcome="error"}[10m])) > 3
+        for: 5m
+        labels:
+          severity: warning
+        annotations:
+          summary: "数据库事务错误增多"
+          description: "{{ $labels.mode }}/{{ $labels.access }}事务10分钟内错误超过3次"
+
+      - alert: karenbot_database_waiting
+        expr: hikaricp_connections_pending > 0
+        for: 2m
+        labels:
+          severity: warning
+        annotations:
+          summary: "数据库连接等待"
+          description: "Hikari连续2分钟存在等待连接"
+
+      - alert: karenbot_database_timeout
+        expr: increase(hikaricp_connections_timeout_total[10m]) > 0
+        for: 5m
+        labels:
+          severity: critical
+        annotations:
+          summary: "数据库连接超时"
+          description: "Hikari10分钟内发生连接获取超时"
+
+      - alert: karenbot_heap_high
+        expr: max(jvm_memory_used_bytes{area="heap"} / jvm_memory_max_bytes{area="heap"}) > 0.9
+        for: 10m
+        labels:
+          severity: warning
+        annotations:
+          summary: "JVM堆内存使用率过高"
+          description: "JVM堆内存使用率连续10分钟高于90%"
