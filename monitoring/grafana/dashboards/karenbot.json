@@ -321,20 +321,9 @@
           "legendFormat": "{{game}} / {{provider}} / {{outcome}}",
           "range": true,
           "refId": "B"
-        },
-        {
-          "datasource": {
-            "type": "prometheus",
-            "uid": "karenbot-prometheus"
-          },
-          "editorMode": "code",
-          "expr": "sum by (game, provider) (rate(karenbot_prober_fallback_total[5m]))",
-          "legendFormat": "fallback / {{game}} / {{provider}}",
-          "range": true,
-          "refId": "C"
         }
       ],
-      "title": "查分器与备用后端",
+      "title": "查分器",
       "type": "timeseries"
     },
     {

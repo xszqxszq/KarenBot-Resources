@@ -68,15 +68,6 @@ groups:
           summary: "查分器请求失败增多"
           description: "{{ $labels.game }}的{{ $labels.provider }}10分钟内失败超过3次"
 
-      - alert: karenbot_prober_fallback
-        expr: sum by (game, provider) (increase(karenbot_prober_fallback_total[10m])) > 3
-        for: 5m
-        labels:
-          severity: info
-        annotations:
-          summary: "查分器备用后端切换增多"
-          description: "{{ $labels.game }}10分钟内切到{{ $labels.provider }}超过3次"
-
       - alert: karenbot_rating_query_slow
         expr: histogram_quantile(0.95, sum by (le, game, provider) (rate(karenbot_rating_query_seconds_bucket[10m]))) > 5
         for: 10m
