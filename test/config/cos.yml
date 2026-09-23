@@ -1,0 +1,7 @@
+appId: "__COS_APP_ID__"
+region: "__COS_REGION__"
+secretId: "__COS_SECRET_ID__"
+secretKey: "__COS_SECRET_KEY__"
+lightMode: false
+lightDir: ""
+lightUrl: ""

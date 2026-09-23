@@ -1,0 +1,17 @@
+models:
+  audit:
+    apikey: "__LLM_API_KEY__"
+    model: "__LLM_MODEL__"
+    temperature: 0.1
+  blonde:
+    apikey: "__LLM_API_KEY__"
+    model: "__LLM_MODEL__"
+    temperature: 0.1
+  rhythm-game:
+    apikey: "__LLM_API_KEY__"
+    model: "__LLM_MODEL__"
+    temperature: 0.1
+  embedding:
+    apikey: "__EMBEDDING_API_KEY__"
+    model: "__EMBEDDING_MODEL__"
+    temperature: 0.1
