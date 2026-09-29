@@ -27,11 +27,27 @@ if [ "$DRY_RUN" -eq 0 ]; then
 	trap 'rm -rf "$STAGE"' EXIT
 fi
 
-(cd data && zip -0 -q -r "$STAGE/$TAG.zip" $DIRS -x '*_s.jpg')
+(cd data && zip -0 -q -r "$STAGE/$TAG.zip" $DIRS -x '*_s.jpg' -x '*.DS_Store' -x '__MACOSX/*')
+
+echo "Packed:"
+packed=0
+for dir in $DIRS; do
+	count=$(find "data/$dir" -type f -not -name '*_s.jpg' -not -name '.DS_Store' | wc -l | tr -d ' ')
+	bytes=$(find "data/$dir" -type f -not -name '*_s.jpg' -not -name '.DS_Store' -print0 | xargs -0 wc -c | awk 'END{print $1+0}')
+	packed=$((packed + bytes))
+	printf '  %-18s %5s files  %6.1f MB\n' "$dir" "$count" "$(echo "$bytes" | awk '{print $1/1048576}')"
+done
+printf '  %-18s %5s          %6.1f MB\n' "Total" "" "$(echo "$packed" | awk '{print $1/1048576}')"
+
+zip_size=$(wc -c < "$STAGE/$TAG.zip" | tr -d ' ')
+if [ "$zip_size" -lt "$packed" ]; then
+	echo "Error: archive smaller than packed data" >&2
+	exit 1
+fi
+ls -lh "$STAGE/$TAG.zip"
 
 if [ "$DRY_RUN" -eq 1 ]; then
-	ls -lh "$STAGE"
-	echo "dry-run: Saved at $STAGE"
+	rm -rf "$STAGE"
 	exit 0
 fi
 
