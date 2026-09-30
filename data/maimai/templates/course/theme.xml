@@ -38,7 +38,7 @@
             </Container>
         </Container>
         <Container id="footer" justify-content="center" padding="12" color="#013162">
-            <Text id="copyright" size="22" font="Alibaba-PuHuiTi-H" color="#ffffff" shadow="1">可怜Bot 9.0 by 心水湛清 617 | https://bot-docs.otmdb.cn</Text>
+            <Text id="copyright" size="22" font="Alibaba-PuHuiTi-H" color="#ffffff" shadow="1">可怜Bot 9.0 by 心水湛清 617 | https://karenbot.cn</Text>
         </Container>
     </Container>
     <Container id="music" width="690" height="120" justify-content="space-between" align-content="center">
